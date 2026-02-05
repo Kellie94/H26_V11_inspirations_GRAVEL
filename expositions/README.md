@@ -1,5 +1,3 @@
-# Banque des informations recueillies lors de l'exposition Devenirs Partagés - Pratiques de l'AI. 
-## Oeuvre choisie: QUEER.VEUVE.CANCER. par Dayna Mcleod
+# Regroupement des différentes expositions visitées
 
-- Médias
-- croquis
+Galerie UDEM - Devenirs partagés - Pratiques de l'AI
