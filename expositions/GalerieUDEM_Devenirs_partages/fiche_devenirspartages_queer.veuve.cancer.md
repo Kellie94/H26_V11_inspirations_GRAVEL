@@ -1,7 +1,7 @@
 # Devenirs Partagés - Pratique de l'AI
 Une exposition sur l'Ai en tant qu'outil et sujet.
 
-![Affiche de l'exposition Devenirs Partagés - Pratique de l'AI](https://cmontmorency365-my.sharepoint.com/:i:/g/personal/1270299_cmontmorency_qc_ca/IQBNVp667ASeTaTZGRndWiZxAWP_z3t-Rqq7qApGbv65Is8?e=dtwy1i)
+![Affiche de l'exposition](https://cmontmorency365-my.sharepoint.com/:i:/g/personal/1270299_cmontmorency_qc_ca/IQBNVp667ASeTaTZGRndWiZxAWP_z3t-Rqq7qApGbv65Is8?e=RNMbBk)
 
 ## Présentation de l'endroit
 - **Nom de l'exposition** : Devenirs Partagés - Pratique de l'AI
