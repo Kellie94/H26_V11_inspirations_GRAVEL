@@ -1,7 +1,7 @@
 # Devenirs Partagés - Pratique de l'AI
 Une exposition sur l'Ai en tant qu'outil et sujet.
 
-![Affiche de l'exposition](https://cmontmorency365-my.sharepoint.com/:i:/g/personal/1270299_cmontmorency_qc_ca/IQBNVp667ASeTaTZGRndWiZxAWP_z3t-Rqq7qApGbv65Is8?e=RNMbBk)
+<img src="./medias/devenirs_partages_queer_veuve_cancer_affiche.png" alt="Affiche de l'exposition" width="400">
 
 ## Présentation de l'endroit
 - **Nom de l'exposition** : Devenirs Partagés - Pratique de l'AI
@@ -11,26 +11,25 @@ Une exposition sur l'Ai en tant qu'outil et sujet.
 
 ## Présentation de l'oeuvre choisie
 
-![Photographie de l'oeuvre](https://cmontmorency365-my.sharepoint.com/:i:/g/personal/1270299_cmontmorency_qc_ca/IQBNVp667ASeTaTZGRndWiZxAWP_z3t-Rqq7qApGbv65Is8?e=dtwy1i)
-![Photographie de l'oeuvre](https://cmontmorency365-my.sharepoint.com/:i:/g/personal/1270299_cmontmorency_qc_ca/IQBNVp667ASeTaTZGRndWiZxAWP_z3t-Rqq7qApGbv65Is8?e=dtwy1i)
-![Photographie du cartel](https://cmontmorency365-my.sharepoint.com/:i:/g/personal/1270299_cmontmorency_qc_ca/IQBNVp667ASeTaTZGRndWiZxAWP_z3t-Rqq7qApGbv65Is8?e=dtwy1i)
+<img src="./medias/queere_veuve_cancer_vue_cote.png" alt="Photographie de l'oeuvre côté gauche" width="400"><img src="./medias/queere_veuve_cancer_vue_generale.png" alt="Photographie de l'oeuvre côté droit" width="400">
+<img src="./medias/queer_veuve_cancer_cartels.png" alt="Photographie du cartel" width="400">
 
 - **Oeuvre**: QUEER-VEUVE-CANCER
 - **Année**: 2026
 - **Nom de l'artiste** : Dayna Mcloed
 
-![Photographie du croquis](https://cmontmorency365-my.sharepoint.com/:i:/g/personal/1270299_cmontmorency_qc_ca/IQBNVp667ASeTaTZGRndWiZxAWP_z3t-Rqq7qApGbv65Is8?e=dtwy1i)
+<img src="./croquis/queer_veuve_cancer_croquis.png" alt="Photographie du croquis" width="400">
 
 - **Mise en espace**: (Description de comment c'est placé avec croquis)
 
-![Photographie de l'ordinateur et du système de son](https://cmontmorency365-my.sharepoint.com/:i:/g/personal/1270299_cmontmorency_qc_ca/IQBNVp667ASeTaTZGRndWiZxAWP_z3t-Rqq7qApGbv65Is8?e=dtwy1i)
+<img src="./medias/queer_veuve_cancer_composantes.png" alt="Photographie de l'ordinateur et du système de son" width="400">
 
 - **Composantes et techniques**: (par l'artiste)
 - **Éléments nécessaires à la mise en exposition**: ex:socle, rideau, mur blanc (par l'établissement)
 
 ## Mon expérience vécue
 
-![Égo portrait de moi devant la Galerie de l'UDEM](https://cmontmorency365-my.sharepoint.com/:i:/g/personal/1270299_cmontmorency_qc_ca/IQBNVp667ASeTaTZGRndWiZxAWP_z3t-Rqq7qApGbv65Is8?e=dtwy1i)
+<img src="./medias/queer_veuve_cancer_moi.png" alt="Égo portrait de moi devant la Galerie de l'UDEM" width="400">
 
 /description/
 
