@@ -15,7 +15,7 @@ Une exposition sur l'Ai en tant qu'outil et sujet.
 <img src="./medias/queer_veuve_cancer_cartels.png" alt="Photographie du cartel" width="400">
 
 - **Oeuvre**: QUEER-VEUVE-CANCER
-- **Année**: 2026
+- **Année**: 2025
 - **Nom de l'artiste** : Dayna Mcloed
 
 <img src="./croquis/queer_veuve_cancer_croquis.png" alt="Photographie du croquis" width="400">
