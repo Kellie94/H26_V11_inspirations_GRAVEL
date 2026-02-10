@@ -17,6 +17,8 @@ Une exposition sur l'Ai en tant qu'outil et sujet.
 - **Oeuvre**: QUEER-VEUVE-CANCER
 - **Année**: 2025
 - **Nom de l'artiste** : Dayna McLeod
+- **Courte présentation de l'artiste et de son oeuvre**: Artiste queer d'âge mûr dans le domaine des médias et de la performance, Dayna McLoad vie depuis 20 ans à Montréal.
+À travers trois avatars AI, elle raconte l'histoire de la perte de MJ, emportée par un cancer du pancréas en phase terminale, des soins qu'elle a reçu à domicile avec la communauté queer, et de mon diagnostic de cancer du côlon et du traitement de chimiothérapie que qu'elle a suivi après son décès." (Daynarama.com, 2026)
 
 <img src="./croquis/queer_veuve_cancer_croquis.png" alt="Photographie du croquis" width="400">
 
