@@ -48,5 +48,5 @@ Qu'en était-il des autres avatars? Je ne suis restée qu'un instant devant le s
 - **Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement :** L'artiste expliquait qu'elle ne voulait pas mettre les différents avatars côte à côte pour que le spectateur les compare uniquement dans leur tête et leur mémoire. Bien que j'approuve cette approche, j'ai trouvé qu'elle avait également une lacune. L'œuvre devenait très redondante, puisque c'était la même histoire répétée trois fois. Sans compter que je venais de sortir d'une œuvre qui m'avait exténuée et rendait mon attention très courte. Je crois que je ferai attention à cet élément dans mes propres créations.
 
 **Références**
-https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php (consulté le 09 février 2026)
-https://daynarama.com/ (consulté le 09 février 2026)
+- https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php (consulté le 09 février 2026)
+- https://daynarama.com/ (consulté le 09 février 2026)
