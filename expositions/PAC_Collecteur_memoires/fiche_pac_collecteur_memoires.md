@@ -38,7 +38,7 @@ Une exposition sur le premier égoût collecteur de Montréal
 
 - **Mise en espace:** Au centre droit de la mise en espace se situent les trois principaux moniteurs légèrement tournés vers l'intérieur. Il y est joué une vidéo en boucle infinie de trois actrices AI représentant l'artiste et racontant la même histoire trois fois. À la gauche, trois moniteurs avec écouteurs et supports concernant trois vidéos : *DaynAI* (51 s), *DayAI: This is not Dayna McLeod's gibber* (1 min 16 s) et *TalkBack* (2 min 27 s).
 
-<img src="./medias/queer_veuve_cancer_composantes.png" alt="Photographie de l'ordinateur et du système de son" width="400">
+<img src="./medias/pac_collecteur_memoires_boite.png" alt="Photographie d'une boîte étanche contenant un projecteur" width="400"> <img src="./medias/pac_collecteur_memoires_lumiere.png" alt="Photographie du fil de lumières LED le long de la palissade" width="400">
 
 > Photographie des composantes techniques
 
@@ -50,9 +50,9 @@ Une exposition sur le premier égoût collecteur de Montréal
 
 ## Mon expérience vécue
 
-<img src="./medias/pac_collecteur_memoires_moi" alt="Égo portrait de moi devant le musée de la Point-à-Callière" width="400">
+<img src="./medias/pac_collecteur_memoires_moi.png" alt="Égo portrait de moi devant le musée de la Point-à-Callière" width="400">
 
-> Égo portrait de moi devant la Galerie de l'Université de Montréal
+> Égo portrait de moi devant le musée de la Point-à-Callière
 
 Je suis arrivée à l'exposition avec mes propres doutes, mes jugements et mes efforts à conserver un esprit neutre face au sujet. J'ai commencé mon parcours avec l'œuvre près de l'entrée, à droite. Elle m'a permis de me détendre et d'embrasser l'utilisation de l'IA comme une expérimentation scientifique, sociologique et artistique. À cet instant, j'ai pu entrevoir une toute autre perspective sur l'un des sujets les plus polémiques sur les réseaux sociaux. J'ai poursuivi avec la seconde œuvre qui abordait un point de vue différent de la première, ce qui m'a mis en confiance que chacune des œuvres présentes avait un but intéressant à réfléchir. J'ai même appris des choses que je ne m'étais jamais posé la question. À la troisième, j'ai rencontré un mur. Je reconnais davantage l'idée de l'IA que j'avais quand je suis rentrée dans la salle. C'était une œuvre surchargée d'images et de sons qui cherchaient continuellement mon attention sans pour autant me donner quoi que ce soit d'autre qu'un fort sentiment de répulsion et de non-sens. Malgré tout, j'accorde à l'artiste la réussite de m'avoir fait ressentir ce mal-être de la société qu'il critiquait.
 
@@ -67,6 +67,7 @@ Qu'en était-il des autres avatars? Je ne suis restée qu'un instant devant le s
 - **Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement :** L'artiste expliquait qu'elle ne voulait pas mettre les différents avatars côte à côte pour que le spectateur les compare uniquement dans leur tête et leur mémoire. Bien que j'approuve cette approche, j'ai trouvé qu'elle avait également une lacune. L'œuvre devenait très redondante, puisque c'était la même histoire répétée trois fois. Sans compter que je venais de sortir d'une œuvre qui m'avait exténuée et rendait mon attention très courte. Je crois que je ferai attention à cet élément dans mes propres créations.
 
 **Références**
-- Toutes les photographies ont été prises par Kellie Gravel.
-- https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php (consulté le 09 février 2026)
-- https://daynarama.com/ (consulté le 09 février 2026)
+- Toutes les photographies ont été prises par Kellie Gravel exceptée celles indiquées en cas contraire.
+- https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/ (consulté le 03 mars 2026)
+- https://momentfactory.com/fr/products/collecteur-de-memoires (consulté le 03 mars 2026)
+- https://erudit-montmorency.proxy.collecto.ca/fr/revues/cdd/2022-n76-cdd09281/1110909ar/ (consulté le 03 mars 2026)
