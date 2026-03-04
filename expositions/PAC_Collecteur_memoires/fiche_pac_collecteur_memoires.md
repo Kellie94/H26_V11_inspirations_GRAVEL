@@ -1,17 +1,17 @@
-# Ma visite au musée Point-Callière
+# Ma visite au musée Point-à-Callière
 Une exposition sur l'IA en tant qu'outil et sujet.
 
 <img src="./medias/pac_collecteur_memoires_affiche.png" alt="Affiche de l'exposition" width="400">
 
-> Affiche de l'exposition *Le premier égoût de Montréal*
+> Panneau illuminé de l'exposition *Le premier égoût collecteur*
 
 <br>
 
 ## Présentation de l'endroit
-- **Nom de l'exposition:** Devenirs Partagés - Pratique de l'IA
-- **Lieu:** Galerie de l’Université de Montréal - 2940, ch. de la Côte-Sainte-Catherine, Pavillon de la Faculté de l’Aménagement, salle 0056 (niveau rez-de-jardin) Montréal (Qc) H3T 1B9
-- **Type d'exposition:** Intérieur, temporaire
-- **Duré de l'exposition:** Du 28 novembre 2025 au 28 février 2026
+- **Nom de l'exposition:** Premier égoût collecteur
+- **Lieu:** Musée Pointe-à-Callière - 350 Pl. Royale (niveau rez-de-jardin) Montréal (QC) H2Y 3Y5
+- **Type d'exposition:** Intérieur, permanent
+- **Duré de l'exposition:** À l'année
 - **Sujet de l'exposition:** Quatre artistes (Francisco Gonzàlez-Rosas, Marie-Ève Levasseur, Dayna McLeod et Marion Schneider) collaborent avec des membres chercheurs d'IVANO de domaines différents: neurosciences, mathématiques, sciences politiques et plus encore. Ils esquissent leur réflexion face à la production de savoirs responsables, inclusifs, féministes et queers en IA. Par l'expérimentation, les artistes abordent les sujets tels que le techno-compost, l'activité cérébrale, la génération d'images, le dialogue politique en ligne, les écologies queers, le deuil et l'empathie. Ce projet utilise l'IA comme un outil et un sujet pour parcourir les capacités et les enjeux de celle-ci. (galerie.unmontreal.ca,2026)
 
 <br>
@@ -26,10 +26,10 @@ Une exposition sur l'IA en tant qu'outil et sujet.
 
 > Cartels de l'oeuvre *QUEER.VEUVE.CANCER*
 
-- **Oeuvre:** QUEER-VEUVE-CANCER
-- **Année:** 2025
-- **Nom de l'artiste:** Dayna McLeod
-- **Courte présentation de l'artiste et de son oeuvre:** Artiste queer d'âge mûr dans le domaine des médias et de la performance, Dayna McLoad vit depuis 20 ans à Montréal.
+- **Dispositif:** Collecteur de mémoires
+- **Année:** 2017
+- **Nom de la compagnie:** Moment Factory
+- **Courte présentation de la compagnie et de son dispositif:** Artiste queer d'âge mûr dans le domaine des médias et de la performance, Dayna McLoad vit depuis 20 ans à Montréal.
 À travers trois avatars IA, elle raconte l'histoire de la perte de MJ, emportée par un cancer du pancréas en phase terminale, des soins qu'elle a reçus à domicile avec la communauté queer, et de son diagnostic de cancer du côlon et du traitement de chimiothérapie qu'elle a suivi après son décès. (Daynarama.com, 2026)
 
 <img src="./croquis/queer_veuve_cancer_croquis.png" alt="Photographie du croquis" width="400">
@@ -50,7 +50,7 @@ Une exposition sur l'IA en tant qu'outil et sujet.
 
 ## Mon expérience vécue
 
-<img src="./medias/queer_veuve_cancer_moi.png" alt="Égo portrait de moi devant la Galerie de l'UDEM" width="400">
+<img src="./medias/pac_collecteur_memoires_moi" alt="Égo portrait de moi devant le musée de la Point-à-Callière" width="400">
 
 > Égo portrait de moi devant la Galerie de l'Université de Montréal
 
