@@ -1,3 +1,1 @@
-# Banque d'informations recueillies du dispositif Collecteur de mémoires.
-- photos
-- croquis
+## Tous les médias du dispositif multimédia du Collecteur de mémoires.
