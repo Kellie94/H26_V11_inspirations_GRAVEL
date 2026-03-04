@@ -1,7 +1,7 @@
 # Ma visite au musée Point-à-Callière
-Une exposition sur l'IA en tant qu'outil et sujet.
+Une exposition sur le premier égoût collecteur de Montréal
 
-<img src="./medias/pac_collecteur_memoires_affiche.png" alt="Affiche de l'exposition" width="400">
+<img src="./medias/pac_collecteur_memoires_affiche.png" alt="Panneau illuminé de l'exposition" width="300">
 
 > Panneau illuminé de l'exposition *Le premier égoût collecteur*
 
@@ -12,29 +12,29 @@ Une exposition sur l'IA en tant qu'outil et sujet.
 - **Lieu:** Musée Pointe-à-Callière - 350 Pl. Royale (niveau rez-de-jardin) Montréal (QC) H2Y 3Y5
 - **Type d'exposition:** Intérieur, permanent
 - **Duré de l'exposition:** À l'année
-- **Sujet de l'exposition:** Quatre artistes (Francisco Gonzàlez-Rosas, Marie-Ève Levasseur, Dayna McLeod et Marion Schneider) collaborent avec des membres chercheurs d'IVANO de domaines différents: neurosciences, mathématiques, sciences politiques et plus encore. Ils esquissent leur réflexion face à la production de savoirs responsables, inclusifs, féministes et queers en IA. Par l'expérimentation, les artistes abordent les sujets tels que le techno-compost, l'activité cérébrale, la génération d'images, le dialogue politique en ligne, les écologies queers, le deuil et l'empathie. Ce projet utilise l'IA comme un outil et un sujet pour parcourir les capacités et les enjeux de celle-ci. (galerie.unmontreal.ca,2026)
+- **Sujet de l'exposition:** L'exposition raconte l'histoire du premier égoût collecteur en Amérique du Nord, contruit à Montréal entre 1832 et 1838 et comment il a été réalisé. (https://pacmusee.qc.ca/),2026)
 
 <br>
 
-## Présentation de l'oeuvre choisie
+## Présentation du dispositif choisi
 
-<img src="./medias/queere_veuve_cancer_vue_cote.png" alt="Photographie de l'oeuvre côté gauche" width="400"><img src="./medias/queere_veuve_cancer_vue_generale.png" alt="Photographie de l'oeuvre côté droit" width="400">
+<img src="./medias/pac_collecteur_memoires_vue_ensemble_02.png" alt="Photographie d'ensemble du dispositif" width="500">
 
-> Ensemble de l'oeuvre *QUEER.VEUVE.CANCER*
+> Vue d'ensemble du dispositif *Collecteur de mémoires*, photographie par Stéphane Brügger
 
-<img src="./medias/queer_veuve_cancer_cartels.png" alt="Photographie du cartel" width="400">
+<img src="./medias/pac_collecteur_memoires_informations.png" alt="Photographie du panneau informatif de la construction du premier collecteur d'égoût de Montréal" width="400">
 
-> Cartels de l'oeuvre *QUEER.VEUVE.CANCER*
+> Texte explicatif du premier égoût collecteur et de sa construction
 
 - **Dispositif:** Collecteur de mémoires
 - **Année:** 2017
 - **Nom de la compagnie:** Moment Factory
 - **Courte présentation de la compagnie et de son dispositif:** Artiste queer d'âge mûr dans le domaine des médias et de la performance, Dayna McLoad vit depuis 20 ans à Montréal.
-À travers trois avatars IA, elle raconte l'histoire de la perte de MJ, emportée par un cancer du pancréas en phase terminale, des soins qu'elle a reçus à domicile avec la communauté queer, et de son diagnostic de cancer du côlon et du traitement de chimiothérapie qu'elle a suivi après son décès. (Daynarama.com, 2026)
+À travers trois avatars IA, elle raconte l'histoire de la perte de MJ, emportée par un cancer du pancréas en phase terminale, des soins qu'elle a reçus à domicile avec la communauté queer, et de son diagnostic de cancer du côlon et du traitement de chimiothérapie qu'elle a suivi après son décès. (https://momentfactory.com/)
 
 <img src="./croquis/queer_veuve_cancer_croquis.png" alt="Photographie du croquis" width="400">
 
-> Croquis de la mise en espace de l'oeuvre *QUEER.VEUVE.CANCER*
+> Croquis de la mise en espace du dipositif *Collecteur de mémoires*
 
 - **Mise en espace:** Au centre droit de la mise en espace se situent les trois principaux moniteurs légèrement tournés vers l'intérieur. Il y est joué une vidéo en boucle infinie de trois actrices AI représentant l'artiste et racontant la même histoire trois fois. À la gauche, trois moniteurs avec écouteurs et supports concernant trois vidéos : *DaynAI* (51 s), *DayAI: This is not Dayna McLeod's gibber* (1 min 16 s) et *TalkBack* (2 min 27 s).
 
