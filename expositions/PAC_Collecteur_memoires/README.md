@@ -1,1 +1,1 @@
-Tous les médias du dispositif multimédia du Collecteur de mémoires.
+Compte-rendu de la visite du dispositif multimédia Collecteurs de mémoire du premier égoût de Montréal au musée Point-à-Callière.
