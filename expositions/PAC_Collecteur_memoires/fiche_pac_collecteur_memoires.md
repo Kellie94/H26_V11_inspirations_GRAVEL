@@ -17,11 +17,18 @@ Une exposition sur le premier égoût collecteur de Montréal
 <br>
 
 ## Le parcours de l'exposition *Premier égoût collecteur*
+<img src="./medias/pac_collecteur_memoires_plan.png" alt="plan vue d'en haut du musée Point-à-Callière" width="400">
+
+L'exposition se situe dans la partie B en 
+
+
 <img src="./medias/pac_collecteur_memoires_informations.png" alt="Photographie du panneau informatif de la construction du premier collecteur d'égoût de Montréal" width="400">
 
 > Texte explicatif sur l'histoire du premier égoût collecteur, passant de son idéalisation, à sa construction, à sa désafectation, puis à son intégration au musée de Point-à-Callière.
->
-> 
+
+
+<br>
+
 ## Présentation du dispositif choisi
 
 <img src="./medias/pac_collecteur_memoires_vue_ensemble_02.png" alt="Photographie d'ensemble du dispositif" width="500">
@@ -31,12 +38,11 @@ Une exposition sur le premier égoût collecteur de Montréal
 - **Dispositif:** Collecteur de mémoires
 - **Année:** 2017
 - **Nom de la compagnie:** Moment Factory
-- **Courte présentation de la compagnie et de son dispositif:** Artiste queer d'âge mûr dans le domaine des médias et de la performance, Dayna McLoad vit depuis 20 ans à Montréal.
-À travers trois avatars IA, elle raconte l'histoire de la perte de MJ, emportée par un cancer du pancréas en phase terminale, des soins qu'elle a reçus à domicile avec la communauté queer, et de son diagnostic de cancer du côlon et du traitement de chimiothérapie qu'elle a suivi après son décès. (https://momentfactory.com/)
+- **Courte présentation de la compagnie et de son dispositif:** Point-à-Callière a mandaté Moment Factory pour réalisé le disposition *Collecteur de mémoires*. Le but était de créer une expérience immersive qui permettrait de mettre en valeur l'ingénerie architectural de l'endroit sans pour autant que lea visiteura se sentent à l'étroit. L'inspiration de leur dispositif vient de l'eau, les saisons et l'histoire humaine des lieux. L'intégration << des images d’archives représentant la mémoire des Montréalais se transforment en particules de lumière qui ondoient le long des parois, comme bercées par les flots imaginaires de la Petite rivière. >> permettent de comprendre le lien entre les visiteurs et les gens du passé. (https://momentfactory.com/, 2026)
 
-<img src="./croquis/queer_veuve_cancer_croquis.png" alt="Photographie du croquis" width="400">
+<img src="./croquis/pac_collecteur_memoires_croquis_vue_haut.png" alt="Croquis vue de haut du dispositif Collecteur de mémoires" width="400">
 
-> Croquis de la mise en espace du dipositif *Collecteur de mémoires*
+> Croquis de la mise en espace du dipositif *Collecteur de mémoires* vue de haut
 
 - **Mise en espace:** Au centre droit de la mise en espace se situent les trois principaux moniteurs légèrement tournés vers l'intérieur. Il y est joué une vidéo en boucle infinie de trois actrices AI représentant l'artiste et racontant la même histoire trois fois. À la gauche, trois moniteurs avec écouteurs et supports concernant trois vidéos : *DaynAI* (51 s), *DayAI: This is not Dayna McLeod's gibber* (1 min 16 s) et *TalkBack* (2 min 27 s).
 
@@ -55,18 +61,12 @@ Une exposition sur le premier égoût collecteur de Montréal
 <img src="./medias/pac_collecteur_memoires_moi.png" alt="Égo portrait de moi devant le musée de la Point-à-Callière" width="400">
 
 > Égo portrait de moi devant le musée de la Point-à-Callière
+>
+> 
 
-Je suis arrivée à l'exposition avec mes propres doutes, mes jugements et mes efforts à conserver un esprit neutre face au sujet. J'ai commencé mon parcours avec l'œuvre près de l'entrée, à droite. Elle m'a permis de me détendre et d'embrasser l'utilisation de l'IA comme une expérimentation scientifique, sociologique et artistique. À cet instant, j'ai pu entrevoir une toute autre perspective sur l'un des sujets les plus polémiques sur les réseaux sociaux. J'ai poursuivi avec la seconde œuvre qui abordait un point de vue différent de la première, ce qui m'a mis en confiance que chacune des œuvres présentes avait un but intéressant à réfléchir. J'ai même appris des choses que je ne m'étais jamais posé la question. À la troisième, j'ai rencontré un mur. Je reconnais davantage l'idée de l'IA que j'avais quand je suis rentrée dans la salle. C'était une œuvre surchargée d'images et de sons qui cherchaient continuellement mon attention sans pour autant me donner quoi que ce soit d'autre qu'un fort sentiment de répulsion et de non-sens. Malgré tout, j'accorde à l'artiste la réussite de m'avoir fait ressentir ce mal-être de la société qu'il critiquait.
-
-Malheureusement, ce parcours m'a mis dans un état qui ne me permettait pas d'accorder autant d'attention que je ne l'aurais souhaité à l'œuvre choisie. Je me devais de l'écrire pour comprendre mon observation saccadée qui va suivre. Je me suis mise en retrait, quelque peu décalée des trois moniteurs. Mon attention éprouvée a survolé la première DaynAI. Un visage presque inerte mis à part les sourires déshumanisés du contexte, une bouche désynchronisée avec les paroles et un regard mort cherchant à être engageant. Mon cerveau avait fait le tour des informations qu'il avait besoin en une fraction de seconde. L'audio devenait alors plus important que le visuel. Je n'entendais pas très bien ce que la voix générée racontait, mais les sous-titres me permettaient de comprendre le témoignage.
-
-Quelques minutes plus tard, je versais des larmes d'une compassion que je ne m'attendais pas à ressentir. Sous mon regard, alternant entre les mots et les expressions de l'actrice IA, se construisait un lien. Ses expressions ne me paraissaient plus aussi inhumaines ou désarticulées. Son sourire devenait l'un de ceux que l'on fait pour cacher l'ampleur de notre peine. Ses gestes répétitifs devenaient un moment d'inconfort dans les déclarations graves qu'elle faisait. Elle s'humanisait devant moi, alors que l'histoire altérait ma perception. Ou alors, est-ce moi, m'identifiant à son discours, qui cherchais à me connecter avec cette seule identité qui me faisait face? Il n'y avait aucun doute chez moi que je faisais l'objet d'une projection de mon vécu et qu'en retour je m'identifiais. Cet avatar IA était un masque de l'artiste tout simplement, donc je ne pouvais le contourner pour l'atteindre. Résultat, ce masque devenait un miroir qui reflétait mes émotions.
-
-Qu'en était-il des autres avatars? Je ne suis restée qu'un instant devant le second avatar qui tentait de transmettre vainement le chagrin et la douleur. Les mains portées au cœur, la voix générée à partir de celle de Dyana McLoed qui pleurait durant la lecture de son texte et ses expressions peinées m'ont repoussée violemment. La première DaynAI ne forçait rien au spectateur. Elle racontait seulement et me laissait place à mes propres émotions et mes réflexions. La deuxième DaynAI me forçait à ressentir de la peine pour elle. Je ne m'identifiais plus, le lien était coupé. Je suis allée visionner les trois vidéos sur le côté gauche. J'ai aimé retrouver cette première DaynAI qui racontait les démarches de l'artiste. À la dernière station, j'ai vu pour la première fois la troisième DaynAI. L'artiste expliquait qu'elle voulait apporter aux deux autres un DaynAI plus mature et solennelle. Je lui accorde que j'étais de son avis, cet avatar était ce qu'il manquait à l'œuvre. Cependant, lorsque je suis retournée aux trois moniteurs centraux, cette DaynAI m'a encore plus repoussée. Je l'avais trouvée parfaite avec les deux autres durant les explications, pourtant toute seule à raconter la même histoire, je n'y voyais encore une fois pas de place pour m'identifier et me projeter.
-
-- **Ce qui vous a plu, vous a donné des idées :** Ce qui m'a plu est principalement le questionnement de l'artiste à savoir si l'IA pouvait communiquer une émotion et véhiculer une partie difficile de son vécu. J'aimais comment elle encapsulait ce moment. Ces DaynAI resteraient figées alors qu'elle continuerait sa vie. Elles seraient le reflet d'une période de sa vie. Cette temporalité m'a beaucoup marquée. Un peu à l'idée d'une capsule temporelle, sauf qu'au lieu d'y mettre des objets, on y mettrait une partie émotionnelle de soi. Un journal intime animé en quelque sorte. Cet aspect nourrit ma créativité et mon désir de communiquer des perceptions, de raconter non seulement mon histoire, mais celles des autres. Un tout qui s'entrecroise et qui donne naissance à une vision que jusque-là nous n'avions pas envisagée. Ça me rappelle le projet que j'ai fait la session dernière en photographie, dont le sujet était mon père et son garage. J'avais ma propre perception de ce garage et il avait la sienne. J'ai jumelé les deux et en assemblant le projet, j'ai vu sous mes yeux une vérité située entre nous deux. Je ne me rendais pas compte à ce moment que je venais de figer en image son histoire. On peut y voir mon amour pour lui, mon respect. On peut y voir ses difficultés et ses passions. Je suis entrée dans son univers et j'ai pu exprimer cet amour qu'il porte à ce garage surchargé qu'il n'arrivait pas à expliquer à son entourage.
+- **Ce qui vous a plu, vous a donné des idées :** 
  
-- **Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement :** L'artiste expliquait qu'elle ne voulait pas mettre les différents avatars côte à côte pour que le spectateur les compare uniquement dans leur tête et leur mémoire. Bien que j'approuve cette approche, j'ai trouvé qu'elle avait également une lacune. L'œuvre devenait très redondante, puisque c'était la même histoire répétée trois fois. Sans compter que je venais de sortir d'une œuvre qui m'avait exténuée et rendait mon attention très courte. Je crois que je ferai attention à cet élément dans mes propres créations.
+- **Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement :** 
 
 **Références**
 - Toutes les photographies ont été prises par Kellie Gravel exceptée celles indiquées en cas contraire.
