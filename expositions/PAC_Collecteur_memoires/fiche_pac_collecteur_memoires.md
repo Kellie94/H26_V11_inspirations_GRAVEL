@@ -3,7 +3,7 @@ Une exposition sur le premier égoût collecteur de Montréal
 
 <img src="./medias/pac_collecteur_memoires_affiche.png" alt="Panneau illuminé de l'exposition" width="300">
 
-> Panneau illuminé de l'exposition *Le premier égoût collecteur*
+> Panneau illuminé de l'exposition *Le premier égoût collecteur* à l'entrée du dispositif *Collecteur de mémoires*
 
 <br>
 
@@ -12,19 +12,21 @@ Une exposition sur le premier égoût collecteur de Montréal
 - **Lieu:** Musée Pointe-à-Callière - 350 Pl. Royale (niveau rez-de-jardin) Montréal (QC) H2Y 3Y5
 - **Type d'exposition:** Intérieur, permanent
 - **Duré de l'exposition:** À l'année
-- **Sujet de l'exposition:** L'exposition raconte l'histoire du premier égoût collecteur en Amérique du Nord, contruit à Montréal entre 1832 et 1838 et comment il a été réalisé. (https://pacmusee.qc.ca/),2026)
+- **Sujet de l'exposition:** L'exposition raconte l'histoire du premier égoût collecteur en Amérique du Nord, contruit à Montréal entre 1832 et 1838, et comment il a été réalisé. (https://pacmusee.qc.ca/, 2026)
 
 <br>
 
+## Le parcours de l'exposition *Premier égoût collecteur*
+<img src="./medias/pac_collecteur_memoires_informations.png" alt="Photographie du panneau informatif de la construction du premier collecteur d'égoût de Montréal" width="400">
+
+> Texte explicatif sur l'histoire du premier égoût collecteur, passant de son idéalisation, à sa construction, à sa désafectation, puis à son intégration au musée de Point-à-Callière.
+>
+> 
 ## Présentation du dispositif choisi
 
 <img src="./medias/pac_collecteur_memoires_vue_ensemble_02.png" alt="Photographie d'ensemble du dispositif" width="500">
 
 > Vue d'ensemble du dispositif *Collecteur de mémoires*, photographie par Stéphane Brügger
-
-<img src="./medias/pac_collecteur_memoires_informations.png" alt="Photographie du panneau informatif de la construction du premier collecteur d'égoût de Montréal" width="400">
-
-> Texte explicatif du premier égoût collecteur et de sa construction
 
 - **Dispositif:** Collecteur de mémoires
 - **Année:** 2017
@@ -71,3 +73,4 @@ Qu'en était-il des autres avatars? Je ne suis restée qu'un instant devant le s
 - https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/ (consulté le 03 mars 2026)
 - https://momentfactory.com/fr/products/collecteur-de-memoires (consulté le 03 mars 2026)
 - https://erudit-montmorency.proxy.collecto.ca/fr/revues/cdd/2022-n76-cdd09281/1110909ar/ (consulté le 03 mars 2026)
+- https://fr.wikipedia.org/ (consulté le 05 mars 2026)
