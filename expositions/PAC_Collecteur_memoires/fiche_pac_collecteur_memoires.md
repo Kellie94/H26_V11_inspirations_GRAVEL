@@ -7,7 +7,7 @@ Une exposition sur le premier égoût collecteur de Montréal
 
 <br>
 
-## Présentation de l'endroit
+## Informations sur l'exposition
 - **Nom de l'exposition:** Premier égoût collecteur
 - **Lieu:** Musée Pointe-à-Callière - 350 Pl. Royale (niveau rez-de-jardin) Montréal (QC) H2Y 3Y5
 - **Type d'exposition:** Intérieur, permanent
@@ -19,12 +19,15 @@ Une exposition sur le premier égoût collecteur de Montréal
 ## Le parcours de l'exposition *Premier égoût collecteur*
 <img src="./medias/pac_collecteur_memoires_plan.png" alt="plan vue d'en haut du musée Point-à-Callière" width="400">
 
-L'exposition se situe dans la partie B en 
+> Plan du musée vue d'en haut, image provenant d'un pdf fourni par le musée de Point-à-Callière
 
+L'exposition se situe dans la partie B en jaune encadre l'entièreté de l'exposition *Premier égoût collecteur* de Montréal. L'exposition se divise en deux parties, l'une explicative avec un texte explicatif de la structure et une projection d'une vidéo animée sur le mur opposé à l'entré du dispositif *Collecteur de mémoires*.
 
 <img src="./medias/pac_collecteur_memoires_informations.png" alt="Photographie du panneau informatif de la construction du premier collecteur d'égoût de Montréal" width="400">
 
 > Texte explicatif sur l'histoire du premier égoût collecteur, passant de son idéalisation, à sa construction, à sa désafectation, puis à son intégration au musée de Point-à-Callière.
+
+<img src="./medias/pac_collecteur_memoires_projection_photo.png" alt="Photographie du panneau informatif de la construction du premier collecteur d'égoût de Montréal" width="400">
 
 
 <br>
