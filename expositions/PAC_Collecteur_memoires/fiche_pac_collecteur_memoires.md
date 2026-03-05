@@ -21,13 +21,16 @@ Une exposition sur le premier égoût collecteur de Montréal
 
 > Plan du musée vue d'en haut, image provenant d'un pdf fourni par le musée de Point-à-Callière
 
-L'exposition se situe dans la partie B en jaune encadre l'entièreté de l'exposition *Premier égoût collecteur* de Montréal. L'exposition se divise en deux parties, l'une explicative avec un texte explicatif de la structure et une projection d'une vidéo animée sur le mur opposé à l'entré du dispositif *Collecteur de mémoires*.
+L'exposition se situe dans la partie B en jaune encadre l'entièreté de l'exposition *Premier égoût collecteur* de Montréal. L'exposition se divise en deux parties, l'une est informative et l'autre est une expérience immersive. En ce qui concerne la première, elle comporte un panneau illuminé horizontal explicatif à côté d'une animation projecté sur le mur opposé à l'entrée du dispositif. Il y a également une plaque commémorative en l'honneur de l'ingénerie civil csce.
 
 <img src="./medias/pac_collecteur_memoires_informations.png" alt="Photographie du panneau informatif de la construction du premier collecteur d'égoût de Montréal" width="400">
 
 > Texte explicatif sur l'histoire du premier égoût collecteur, passant de son idéalisation, à sa construction, à sa désafectation, puis à son intégration au musée de Point-à-Callière.
 
-<img src="./medias/pac_collecteur_memoires_projection_photo.png" alt="Photographie du panneau informatif de la construction du premier collecteur d'égoût de Montréal" width="400">
+<img src="./medias/pac_collecteur_memoires_projection_video.png" alt="Photographie du video projecté sur le mur en face du dispositif" width="400"><img src="./medias/pac_collecteur_memoires_projecteur.png" alt="Photographie du projecteur associé à la vidéo" width="400"><img src="./medias/pac_collecteur_memoires_csce.png" alt="Photographie de la plaque comémorative de l'ingénerie civil csce" width="400">
+
+> Projection vidéo de passants marchant au dessus du premier égoût collecteur avec le projecteur associé et la plaque comémorative de l'ingénerie civil csce.
+
 
 
 <br>
