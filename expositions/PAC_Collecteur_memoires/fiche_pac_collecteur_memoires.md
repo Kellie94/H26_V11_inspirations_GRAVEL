@@ -1,39 +1,39 @@
-# Ma visite au musée Point-à-Callière
-Une exposition sur le premier égoût collecteur de Montréal
+# Ma visite au musée Pointe-à-Callière
+Une exposition sur le premier égout collecteur de Montréal
 
 <img src="./medias/pac_collecteur_memoires_affiche.png" alt="Panneau illuminé de l'exposition" width="300">
 
-> Panneau illuminé de l'exposition *Le premier égoût collecteur* à l'entrée du dispositif *Collecteur de mémoires*
+> Panneau illuminé de l'exposition *Le premier égout collecteur* à l'entrée du dispositif *Collecteur de mémoires*
 
 <br>
 
 ## Informations sur l'exposition
-- **Nom de l'exposition:** Premier égoût collecteur
+- **Nom de l'exposition:** Premier égout collecteur
 - **Lieu:** Musée Pointe-à-Callière - 350 Pl. Royale (niveau rez-de-jardin) Montréal (QC) H2Y 3Y5
 - **Type d'exposition:** Intérieur, permanent
 - **Duré de l'exposition:** À l'année
-- **Sujet de l'exposition:** L'exposition raconte l'histoire du premier égoût collecteur en Amérique du Nord, contruit à Montréal entre 1832 et 1838, et comment il a été réalisé. (https://pacmusee.qc.ca/, 2026)
+- **Sujet de l'exposition:** L'exposition raconte l'histoire du premier égout collecteur en Amérique du Nord, construit à Montréal entre 1832 et 1838, et comment il a été réalisé, puis désaffecté et finalement incorporé au musée Pointe-à-Callière. (https://pacmusee.qc.ca/, 2026)
 
 <br>
 
 ## Le parcours de l'exposition *Premier égoût collecteur*
-<img src="./medias/pac_collecteur_memoires_plan.png" alt="plan vue d'en haut du musée Point-à-Callière" width="400">
+<img src="./medias/pac_collecteur_memoires_plan.png" alt="plan vue d'en haut du musée Pointe-à-Callière" width="400">
 
-> Plan du musée vue d'en haut, image provenant d'un pdf fourni par le musée de Point-à-Callière
+> Plan du musée vue d'en haut, image provenant d'un pdf fourni par le musée de Pointe-à-Callière
 
-L'exposition se situe dans la partie B en jaune encadre l'entièreté de l'exposition *Premier égoût collecteur* de Montréal. L'exposition se divise en deux parties, l'une est informative et l'autre est une expérience immersive. En ce qui concerne la première, elle comporte un panneau illuminé horizontal explicatif à côté d'une animation projecté sur le mur opposé à l'entrée du dispositif. Il y a également une plaque commémorative en l'honneur de l'ingénerie civil csce.
+L'exposition se situe dans la partie B en jaune encadrant l'entièreté de l'exposition Premier égout collecteur de Montréal. L'exposition se divise en deux parties, l'une est informative et l'autre est une expérience immersive. En ce qui concerne la première, elle comporte un panneau illuminé horizontal explicatif à côté d'une animation projetée sur le mur opposé à l'entrée du dispositif. Il y a également une plaque commémorative en l'honneur de l'ingénierie civile CSCE.
 
-<img src="./medias/pac_collecteur_memoires_informations.png" alt="Photographie du panneau informatif de la construction du premier collecteur d'égoût de Montréal" width="400">
+<img src="./medias/pac_collecteur_memoires_informations.png" alt="Photographie du panneau informatif de la construction du premier collecteur d'égout de Montréal" width="400">
 
-> Texte explicatif sur l'histoire du premier égoût collecteur, passant de son idéalisation, à sa construction, à sa désaffectation, puis à son intégration au musée de Point-à-Callière.
+> Texte explicatif sur l'histoire du premier égout collecteur, passant de son idéalisation, à sa construction, à sa désaffectation, puis à son intégration au musée de Pointe-à-Callière.
 
 <img src="./medias/pac_collecteur_memoires_projection_video.png" alt="Photographie du video projecté sur le mur en face du dispositif" width="400">
 
-> Projection vidéo de passants marchant au dessus du premier égoût collecteur.
+> Projection vidéo de passants marchant au dessus du premier égout collecteur.
 
-<img src="./medias/pac_collecteur_memoires_csce.png" alt="Photographie de la plaque comémorative de l'ingénerie civil csce" width="400">
+<img src="./medias/pac_collecteur_memoires_csce.png" alt="Photographie de la plaque comémorative du site historique nationnal de l'ingénerie civil" width="400">
 
-> Plaque commémorative en l'honneur de l'ingénerie civil csce.
+> Plaque comémorative du site historique nationnal de l'ingénerie civil.
 
 <br>
 
@@ -46,24 +46,26 @@ L'exposition se situe dans la partie B en jaune encadre l'entièreté de l'expos
 - **Dispositif:** Collecteur de mémoires
 - **Année:** 2017
 - **Nom de la compagnie:** Moment Factory
-- **Courte présentation de la compagnie et de son dispositif:** Point-à-Callière a mandaté Moment Factory pour réalisé le disposition *Collecteur de mémoires*. Le but était de créer une expérience immersive qui permettrait de mettre en valeur l'ingénerie architectural de l'endroit sans pour autant que lea visiteura se sentent à l'étroit. L'inspiration de leur dispositif vient de l'eau, les saisons et l'histoire humaine des lieux. L'intégration << des images d’archives représentant la mémoire des Montréalais se transforment en particules de lumière qui ondoient le long des parois, comme bercées par les flots imaginaires de la Petite rivière. >> permettent de comprendre le lien entre les visiteurs et les gens du passé. (https://momentfactory.com/, 2026)
+- **Courte présentation de la compagnie et de son dispositif:** Pointe-à-Callière a mandaté Moment Factory pour réaliser le dispositif Collecteur de mémoires. Le but était de créer une expérience immersive qui permettrait de mettre en valeur l'ingénierie architecturale de l'endroit sans pour autant que les visiteurs se sentent à l'étroit. L'inspiration de leur dispositif vient de l'eau, des saisons et de l'histoire humaine des lieux. L'intégration << des images d’archives représentant la mémoire des Montréalais se transforment en particules de lumière qui ondoient le long des parois, comme bercées par les flots imaginaires de la Petite rivière. >> permet de comprendre le lien entre les visiteurs et les gens du passé. (https://momentfactory.com/, 2026)
+
+<br>
 
 <img src="./croquis/pac_collecteur_memoires_croquis_vue_haut.png" alt="Croquis vue de haut du dispositif Collecteur de mémoires" width="400">
 
 > Croquis de la mise en espace du dipositif *Collecteur de mémoires* vue de haut
 
-- **Mise en espace:** La mise en espace du dispositif consiste à un tunel de 110 mètre de long avec des lumières leds de chaque côté de la passerelle métallique. ces lumières changent la couleurs des murs passant par le rouge, le rose, le turquois, le bleu et le violet.  Un projecteur affiche sur le mur du fond des photographies de la période de construction de l'égoût collecteur qui se "désintègrent" vers le bas comme de l'eau qui coule. Les autres projecteurs, à l'aide de projection maping, projectent une animation de particules multicolores qui s'éloignent vers l'avant du tunel dans une branche secondaire.
+- **Mise en espace:** La mise en espace du dispositif consiste en un tunnel de 110 mètres de long avec des lumières LED de chaque côté de la passerelle métallique. Ces lumières changent la couleur des murs en passant par le rouge, le rose, le turquoise, le bleu et le violet. Un projecteur affiche sur le mur du fond des photographies de la période de construction de l'égout collecteur qui se "désintègrent" vers le bas comme de l'eau qui coule. Les autres projecteurs, à l'aide de projection mapping, projettent une animation de particules multicolores qui s'éloignent vers l'avant du tunnel dans une branche secondaire.
 
-<img src="./medias/pac_collecteur_memoires_boite.png" alt="Photographie d'une boîte étanche contenant un projecteur" width="400"> <img src="./medias/pac_collecteur_memoires_lumiere.png" alt="Photographie du fil de lumières LED le long de la palissade" width="400">
+<img src="./medias/pac_collecteur_memoires_boite.png" alt="Photographie d'une boîte étanche contenant des câbles" width="300"> <img src="./medias/pac_collecteur_memoires_lumiere.png" alt="Photographie du fil de lumières LED le long de la palissade" width="300"> <img src="./medias/pac_collecteur_memoires_projecteur_02.jpg" alt="Photographie d'un projecteur dans une boîte étanche" width="300">
 
-> Photographie des composantes techniques
+> Photographies des composantes techniques: une boîte étanche contenant un projecteur, un fil LED, une boîte étanches contenant des câbles éclairé par deux spots de lumière.
 
 **Composantes et techniques:**
 - 18 projecteurs dans des boîtes étanches
-- Entre 10-15 spot de lumières jaunâtres
-- Bandes de lumières leds
+- Entre 10-15 spots de lumière jaunâtre
+- Bandes de lumières LED
 - Câblages
-- Boîtes étanges pour fils
+- Boîtes étanches pour fils
   
 **Éléments nécessaires à la mise en exposition:** 
 - Passerelle
@@ -74,21 +76,26 @@ L'exposition se situe dans la partie B en jaune encadre l'entièreté de l'expos
 
 <img src="./medias/pac_collecteur_memoires_moi.png" alt="Égo portrait de moi devant le musée de la Point-à-Callière" width="400">
 
-> Égo portrait de moi devant le musée de la Point-à-Callière
+> Égo portrait de moi devant le musée de la Pointe-à-Callière
 
-À mon entrée dans l'exposition du Premier égoût collecteur, j'avais déjà cette impression solanelle d'être témoin du passé avec l'exposition précédante: Montréal au coeur des échanges. Bien que les anciennes structures précédentes étaient intéressantes, celles de l'égoût collecteur étaient impressionnantes. Elles n'avaient pas bouger sous les innondations de la terre ou brûlé par le feu, elles étaient intactent. Prendre conscience des informations avant de me rendre dans le Collecteur des mémoires m'a permis de me concentré sur l'expérience seulement et de consolider l'idée du rapport de proximité entre le passé et moi.
+<br>
 
-L'endroit paraissait grand et pourtant, je me sentais petite et un peu à l'étroit dans ce tunel remplit d'histoire. Je me trouvais jeune comparé à ce trésor historique. J'admirais les techniques employés par des gens de 1830-1840 pour construire quelque chose d'aussi solide pour contenir une petite rivière. Je n'ai pu m'empêcher de comparer ça à la qualité de la construction d'aujourd'hui. Il y a à réfléchir sur la qualité de nos constructions d'aujourd'hui et de ce qu'on laissera comme impression dans le futur. 
+À mon entrée dans l'exposition du *Premier égout collecteur*, j'avais déjà cette impression solennelle d'être témoin du passé avec l'exposition précédente : *Montréal au cœur des échanges*. Bien que les anciennes structures précédentes étaient intéressantes, celles de l'égout collecteur étaient impressionnantes. Elles n'avaient pas bougé sous les inondations, le feu ou la terre comme les autres, elles étaient intactes. Prendre conscience des informations avant de me rendre dans le Collecteur des mémoires m'a permis de me concentrer sur l'expérience seulement et de consolider l'idée du rapport de proximité entre le passé et moi.
 
-Lors de ma visite, j'étais accompagnée, c'est l'une des choses que j'ai apprécié du dispositif. Malgré que je ressentais toute petite dans cette immensité, j'avais quelqu'un avec qui partager cette expérience en même temps. Nous pouvions partager et s'isoler si la réflection nous venait. Je me suis sentie appaisée et en harmonie dans un tout plus grand que moi. Comme quoi, un simple égoût collecteur peut nous apprendre sur l'humain et ses capacités.
+L'endroit paraissait grand et pourtant, je me sentais petite et un peu à l'étroit dans ce tunnel rempli d'histoire. Je me trouvais jeune comparée à ce trésor historique. J'admirais les techniques employées par des gens de 1832-1838 pour construire quelque chose d'aussi solide pour contenir une petite rivière. Je n'ai pu m'empêcher de comparer ça à nos infrastructures d'aujourd'hui. Il y a à réfléchir sur la qualité de nos constructions et de ce qu'on laissera comme impression dans le futur.
 
-- **Ce qui vous a plu, vous a donné des idées :** Ce que je reprendrais est cette aspect historique avec les photos qui se dématérialise en étincelles de lumière qui flottent comme l'eau. Cette métaphore visuelle était très jolie et élevait significativement l'importance du lieu. Cela m'inspire à utiliser ce type de métaphore dans mes projets pour raconter au mieux mes histoires. Je crois que c'est une bonne façon d'exprimer de la profondeur. Sur un aspect un peu plus technique, j'ai apprécié la contraite d'un lieu humide et dont on ne doit pas abîmé. Je tâcherais de penser à ce genre de détail pour la fabrication de mes oeuvres.
+Lors de ma visite, j'étais accompagnée, c'est l'une des choses que j'ai appréciées du dispositif. Malgré que je sentais toute petite dans cette immensité, j'avais quelqu'un avec qui partager cette expérience en même temps. Nous pouvions partager et nous isoler si la réflexion nous venait. Je me suis sentie apaisée et en harmonie dans un tout plus grand que moi. Comme quoi, un simple égout collecteur peut nous apprendre sur l'humain et ses capacités.
+
+<br>
+
+- **Ce qui vous a plu, vous a donné des idées :** Ce que je reprendrais est cet aspect historique avec les photos qui se dématérialisent en étincelles de lumière qui flottent comme de l'eau. Cette métaphore visuelle était très jolie et élevait significativement l'importance du lieu. Cela m'inspire à utiliser ce type de métaphore dans mes projets pour raconter au mieux mes histoires. Je crois que c'est une bonne façon d'exprimer de la profondeur. Sur un aspect un peu plus technique, j'ai apprécié la contrainte d'un lieu humide et dont on ne doit pas abîmer. Je tâcherai de penser à ce genre de détails pour la fabrication de mes œuvres.
  
-- **Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement :** Malgré que j'ai aimé l'ensemble du dispositif, il y avait un manque en début de parcours. Ce n'est qu'à plusieurs mètres plus loin qu'il y a eu des choses à regarder et assimiler. Le début du parcours se résumait à des lumières leds seulement. J'apporterai plus d'éléments et d'équilibre dans un dispositif comme celui-ci.
+- **Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement :** Malgré que j'ai aimé l'ensemble du dispositif, il y avait un manque en début de parcours. Ce n'est qu'à plusieurs mètres plus loin qu'il y a eu des choses à regarder et à assimiler. Le début du parcours se résumait à des lumières LED seulement. J'apporterais plus d'éléments et d'équilibre dans un dispositif comme celui-ci.
+
+<br>
 
 **Références**
 - Toutes les photographies ont été prises par Kellie Gravel exceptée celles indiquées en cas contraire.
 - https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/ (consulté le 03 mars 2026)
 - https://momentfactory.com/fr/products/collecteur-de-memoires (consulté le 03 mars 2026)
 - https://erudit-montmorency.proxy.collecto.ca/fr/revues/cdd/2022-n76-cdd09281/1110909ar/ (consulté le 03 mars 2026)
-- https://fr.wikipedia.org/ (consulté le 05 mars 2026)
