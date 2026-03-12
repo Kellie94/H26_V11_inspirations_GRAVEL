@@ -2,18 +2,36 @@
 
 1. TERMINAL
 Photo d'ensemble
+schéma
+Créateurs:
+Ce que vous avez ressenti (avant/après) l'expérimentation:
 
-2. Arbre-en-face
+3. Arbre-en-face
 Photo d'ensemble
+schéma
+Créateurs:
+Ce que vous avez ressenti (avant/après) l'expérimentation:
 
-3. Océan Rouge
+5. Océan Rouge (À voir plus dans la fiche de l'oeuvre choisie)
 Photo d'ensemble
+schéma
+Créateurs:
+Ce que vous avez ressenti (avant/après) l'expérimentation:
 
-4. Quand les yeux se croisent
+7. Quand les yeux se croisent
 Photo d'essemble
+schéma
+Créateurs:
+Ce que vous avez ressenti (avant/après) l'expérimentation:
 
-5. Mission décollage
+9. Mission décollage
 Photo d'ensemble
+schéma
+Créateurs:
+Ce que vous avez ressenti (avant/après) l'expérimentation:
 
-6. Symbiose
+11. Symbiose
 Photo d'ensemble
+schéma
+Créateurs:
+Ce que vous avez ressenti (avant/après) l'expérimentation:
