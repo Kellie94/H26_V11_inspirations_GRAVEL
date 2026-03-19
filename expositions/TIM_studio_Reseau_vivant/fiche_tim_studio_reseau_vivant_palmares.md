@@ -19,7 +19,7 @@ Photo d'ensemble
 
 <br>
 
-### 2. Mission décollage**
+### 2. Mission décollage
 
 Photo d'ensemble
 
