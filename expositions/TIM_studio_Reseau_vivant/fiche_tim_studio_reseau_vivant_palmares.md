@@ -61,7 +61,7 @@ Photo d'ensemble
 
 <img src="./medias/RV_Symbiose_schema.png" alt="Schéma de l'oeuvre Symbiose." width="400">
 
-*Créateurs: Yannick Chamberland, Benjamin Ferland, Ryan Dufault et Walid Cheour.*
+> *Photographie et schématisation faitent par les créateurs: Créateurs: Yannick Chamberland, Benjamin Ferland, Ryan Dufault et Walid Cheour.*
 
 **Ce que vous avez ressenti (avant/après) l'expérimentation:**
 
@@ -73,7 +73,7 @@ Photo d'essemble
 
 <img src="./medias/RV_Quandlesyeuxsecroisent_schema.jpeg" alt="Schéma de l'oeuvre Quand les yeux se croisent." width="400">
 
-*Créateurs: Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif.*
+> *Photographie et schématisation faitent par les créateurs: Créateurs: Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif.*
 
 **Ce que vous avez ressenti (avant/après) l'expérimentation:**
 
