@@ -71,7 +71,7 @@ Photo d'ensemble
 <br>
 Photo d'essemble
 
-<img src="./medias/RV_Quandlesyeuxsecroisent_schema.png" alt="Schéma de l'oeuvre Quand les yeux se croisent." width="400">
+<img src="./medias/RV_Quandlesyeuxsecroisent_schema.jpeg" alt="Schéma de l'oeuvre Quand les yeux se croisent." width="400">
 
 *Créateurs: Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif.*
 
