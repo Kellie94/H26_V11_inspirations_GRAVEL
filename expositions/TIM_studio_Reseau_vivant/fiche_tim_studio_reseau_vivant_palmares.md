@@ -7,7 +7,7 @@ L'exposition "*explore la connectivité et les expériences partagées*", ce qui
 
 <br>
 
-1. **Océan Rouge**
+**1. Océan Rouge**
 <br>
 Photo d'ensemble
 <br>
@@ -19,7 +19,7 @@ Photo d'ensemble
 
 <br>
 
-2. **Mission décollage**
+**2. Mission décollage**
 <br>
 Photo d'ensemble
 
@@ -31,7 +31,7 @@ Photo d'ensemble
 
 <br>
 
-3. **Arbre-en-face**
+### 3. Arbre-en-face
 <br>
 Photo d'ensemble
 
