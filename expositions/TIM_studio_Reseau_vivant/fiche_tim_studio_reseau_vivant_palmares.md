@@ -3,7 +3,7 @@
 <img src="./medias/RV_affiche" alt="Affiche de l'Exposition Réseau Vivant des finissants de la Technique d'intégration multimédia" width="400">
 
 ## Critères personnels du palmarès
-L'exposition "*explore la connectivité et les expériences partagées*", ce qui amène aux thèmes de l'échange autant intellectuel, émotionnelle et humaine. Je prends en compte non seulement l'exécution du projet de sa conceptualisation à sa concrétisation, mais également l'approche des artistes techniciens par rapport à leur oeuvre et envers le public. Puisqu'il s'agit d'une exposition ayant pour but de rendre vivant un réseau entre les oeuvres et les personnes impliquées.
+L'exposition "*explore la connectivité et les expériences partagées*", ce qui amène aux thèmes de l'échange autant intellectuel, émotionnelle et humaine. Je prends en compte non seulement l'exécution du projet de sa conceptualisation à sa concrétisation, mais également l'approche des artistes techniciens par rapport à leur oeuvre et envers le public. Puisqu'il s'agit d'une exposition ayant pour but de rendre vivant un réseau entre les oeuvres et les personnes impliquées. (tim-montmorency.com, 2026)
 
 1. **Océan Rouge**
 Photo d'ensemble
@@ -40,3 +40,6 @@ Photo d'essemble
 schéma
 Créateurs: *Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif.*
 Ce que vous avez ressenti (avant/après) l'expérimentation:
+
+**Médiagraphie**
+https://tim-montmorency.com/2026/ (consulté le 19 mars 2026)
