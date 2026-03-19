@@ -8,10 +8,13 @@ L'exposition "*explore la connectivité et les expériences partagées*", ce qui
 <br>
 
 1. **Océan Rouge**
+<br>
 Photo d'ensemble
 <br>
 <img src="./medias/RV_OceanRouge_schema_vue_face.png" alt="Schéma de l'oeuvre Océan Rouge vue de face." width="400"><img src="./medias/RV_OceanRouge_schema_vue_cote.png" alt="Schéma de l'oeuvre Océan Rouge vue de côté." width="400">
+
 > *Créatrices: Amira Tournekti et Kristy Moussally.*
+
 Ce que vous avez ressenti (avant/après) l'expérimentation:
 
 <br>
