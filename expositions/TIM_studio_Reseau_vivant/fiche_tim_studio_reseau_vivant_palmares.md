@@ -11,7 +11,7 @@ L'exposition "*explore la connectivité et les expériences partagées*", ce qui
 Photo d'ensemble
 <br>
 <img src="./medias/RV_OceanRouge_schema_vue_face.png" alt="Schéma de l'oeuvre Océan Rouge vue de face." width="400"><img src="./medias/RV_OceanRouge_schema_vue_cote.png" alt="Schéma de l'oeuvre Océan Rouge vue de côté." width="400">
-Créateurs: *Amira Tournekti et Kristy Moussally*
+> *Créatrices: Amira Tournekti et Kristy Moussally.*
 Ce que vous avez ressenti (avant/après) l'expérimentation:
 
 <br>
@@ -19,7 +19,7 @@ Ce que vous avez ressenti (avant/après) l'expérimentation:
 3. **Mission décollage**
 Photo d'ensemble
 schéma
-Créateurs: *Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi.*
+> *Créateurs: Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi.*
 Ce que vous avez ressenti (avant/après) l'expérimentation:
 
 <br>
@@ -27,7 +27,7 @@ Ce que vous avez ressenti (avant/après) l'expérimentation:
 5. **Arbre-en-face**
 Photo d'ensemble
 schéma
-Créateurs: *Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani et Rafael Angon Dube.*
+> *Créateurs: Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani et Rafael Angon Dube.*
 Ce que vous avez ressenti (avant/après) l'expérimentation:
 
 <br>
@@ -35,7 +35,7 @@ Ce que vous avez ressenti (avant/après) l'expérimentation:
 7. **TERMINAL**
 Photo d'ensemble
 schéma
-*Créateurs: Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano et Mégane Ranger.*
+> *Créateurs: Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano et Mégane Ranger.*
 Ce que vous avez ressenti (avant/après) l'expérimentation:
 
 <br>
@@ -43,7 +43,7 @@ Ce que vous avez ressenti (avant/après) l'expérimentation:
 9. **Symbiose**
 Photo d'ensemble
 schéma
-Créateurs: *Yannick Chamberland, Benjamin Ferland, Ryan Dufault et Walid Cheour*
+*Créateurs: Yannick Chamberland, Benjamin Ferland, Ryan Dufault et Walid Cheour.*
 Ce que vous avez ressenti (avant/après) l'expérimentation:
 
 <br>
@@ -51,7 +51,7 @@ Ce que vous avez ressenti (avant/après) l'expérimentation:
 11. **Quand les yeux se croisent**
 Photo d'essemble
 schéma
-Créateurs: *Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif.*
+*Créateurs: Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif.*
 Ce que vous avez ressenti (avant/après) l'expérimentation:
 
 <br>
