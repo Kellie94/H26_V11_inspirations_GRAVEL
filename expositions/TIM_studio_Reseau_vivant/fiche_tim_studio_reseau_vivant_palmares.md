@@ -7,8 +7,8 @@ L'exposition "*explore la connectivité et les expériences partagées*", ce qui
 
 <br>
 
-**1. Océan Rouge**
-<br>
+### 1. Océan Rouge
+
 Photo d'ensemble
 <br>
 <img src="./medias/RV_OceanRouge_schema_vue_face.png" alt="Schéma de l'oeuvre Océan Rouge vue de face." width="400"><img src="./medias/RV_OceanRouge_schema_vue_cote.png" alt="Schéma de l'oeuvre Océan Rouge vue de côté." width="400">
@@ -19,8 +19,8 @@ Photo d'ensemble
 
 <br>
 
-**2. Mission décollage**
-<br>
+### 2. Mission décollage**
+
 Photo d'ensemble
 
 <img src="./medias/RV_MissionDecollage_schema.png" alt="Schéma de l'oeuvre Mission Décollage." width="400">
@@ -32,7 +32,7 @@ Photo d'ensemble
 <br>
 
 ### 3. Arbre-en-face
-<br>
+
 Photo d'ensemble
 
 <img src="./medias/RV_Arbreenfance_schema_vue_face.jpg" alt="Schéma de l'oeuvre Arbre-en-face vue de face." width="400"><img src="./medias/RV_Arbreenfance_schema_vue_cote.jpg" alt="Schéma de l'oeuvre Arbre-en-face vue de côté." width="400">
@@ -43,8 +43,8 @@ Photo d'ensemble
 
 <br>
 
-4. **TERMINAL**
-<br>
+ ### 4. TERMINAL
+
 Photo d'ensemble
 
 <img src="./medias/RV_Terminal_schema.png" alt="Schéma de l'oeuvre Terminal." width="400">
@@ -55,8 +55,8 @@ Photo d'ensemble
 
 <br>
 
-5. **Symbiose**
-<br>
+### 5. Symbiose
+
 Photo d'ensemble
 
 <img src="./medias/RV_Symbiose_schema.png" alt="Schéma de l'oeuvre Symbiose." width="400">
@@ -67,8 +67,8 @@ Photo d'ensemble
 
 <br>
 
-6. **Quand les yeux se croisent**
-<br>
+### 6. Quand les yeux se croisent
+
 Photo d'essemble
 
 <img src="./medias/RV_Quandlesyeuxsecroisent_schema.jpeg" alt="Schéma de l'oeuvre Quand les yeux se croisent." width="400">
