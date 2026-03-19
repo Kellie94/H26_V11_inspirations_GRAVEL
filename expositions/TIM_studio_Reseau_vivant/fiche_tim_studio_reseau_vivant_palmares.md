@@ -35,7 +35,7 @@ Photo d'ensemble
 
 Photo d'ensemble
 
-<img src="./medias/RV_Arbreenfance_schema_vue_face.jpg" alt="Schéma de l'oeuvre Arbre-en-face vue de face." width="400"><img src="./medias/RV_Arbreenfance_schema_vue_cote.jpg" alt="Schéma de l'oeuvre Arbre-en-face vue de côté." width="400">
+<img src="./medias/RV_Arbreenface_schema_vue_face.jpg" alt="Schéma de l'oeuvre Arbre-en-face vue de face." width="400"><img src="./medias/RV_Arbreenface_schema_vue_cote.jpg" alt="Schéma de l'oeuvre Arbre-en-face vue de côté." width="400">
 
 > *Photographie et schématisation faitent par les créateurs: Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani et Rafael Angon Dube.*
 
