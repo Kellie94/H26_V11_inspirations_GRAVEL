@@ -65,7 +65,7 @@ Photo d'ensemble
 
 > *Photographie et schématisation faitent par les créateurs: Créateurs: Yannick Chamberland, Benjamin Ferland, Ryan Dufault et Walid Cheour.*
 
-**Ce que vous avez ressenti (avant/après) l'expérimentation:** 
+**Ce que vous avez ressenti (avant/après) l'expérimentation:** *Symbiose* est une oeuvre qui a un concept intéressant selon moi, mais qui manquait un esthétique travaillé et clair. Lors de mon expérience, il n'y avait pas de tutoriel pour les mécanismes de jeu et le processus n'était pas facile à comprendre. Les consignes pour une manette pour un joueur se apparaissait à différent endroit, ce qui rendait difficile de suivre ce qu'on attendait de nous et si ça nous concernait. Il y avait également un décalibration entre l'action du joueur et l'effet à l'écran, ce qui compliquait la précision. Les créateurs n'étaient pas intéressés de nous accompagner dans le processus. Ils étaient impossible d'engager la conversation avec eux, puisqu'ils parlaient entre eux dans un coin en cercle.
 
 <br>
 
@@ -77,7 +77,7 @@ Photo d'essemble
 
 > *Photographie et schématisation faitent par les créateurs: Créateurs: Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif.*
 
-**Ce que vous avez ressenti (avant/après) l'expérimentation:**
+**Ce que vous avez ressenti (avant/après) l'expérimentation:** *Quand les yeux se croisent* est une oeuvre visuellement très belle. Contrairement au autre, elle demandait moins d'intérractivité. Elle servait plus un but contemplatif et réflectif. Malheureusement, cette oeuvre occupe la dernière place parce que la banque d'image des yeux accumulée des personnes ne s'affichaient pas toujours et créait une déception chez le spectateur. 
 
 <br>
 
