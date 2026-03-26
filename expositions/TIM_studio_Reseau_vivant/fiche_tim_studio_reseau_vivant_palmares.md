@@ -15,7 +15,9 @@ Photo d'ensemble
 
 > *Photographie et schématisation faitent par les créatrices: Amira Tournekti et Kristy Moussally.*
 
-**Ce que vous avez ressenti (avant/après) l'expérimentation:**
+**Ce que vous avez ressenti (avant/après) l'expérimentation:** *Océan Rouge* était une surprise quand je suis arrivée à ma première visite au moment où les étudiants étaient encore en développement de leurs oeuvres. Il y avait un autre projet annoncé à sa place, mais dû à des concours de circonstance, le projet a été remplacé. J'ai mis *Océan Rouge* à la première place de mon palmarès pour plusieurs raisons. J'ai aimé la simplicité du jeu et de ses mécanismes à chaque visite. Les images étaient harmonieuses. Bien que le jeu se faisait dans l'intimité, il n'empêchait pas les autres de venir regarder. Le temps de jeu était court, ce qui permettait que le joueur et le spectateur puisse alterné leur place sans impatience. Les artistes avient un désir de présenter leur jeu, de féliciter et de donner des astuces. Elles expliquaient leur processus avec enthousiasme et n'hésitaient pas à montrer des aspects techniques. Ce dernier commentaire est selon moi aussi important que l'oeuvre en elle-même, puis que l'exposition parlait d'un réseau vivant.
+
+ De plus, en ce qui concerne ma banque d'inspiration, cette oeuvre me permet d'imaginer un peu mieux comment faire mes propres jeux, dont j'aimerais avoir une ambiance et une simplicité se rapprochant de la leur. L'ajout du didactitiel en début du jeu a beaucoup aidé l'expérience du jeu et la compréhension d'une nouvelle manette de jeu encore méconnue.
 
 <br>
 
@@ -27,7 +29,7 @@ Photo d'ensemble
 
 > *Photographie et schématisation faitent par les créateurs: Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi.*
 
-**Ce que vous avez ressenti (avant/après) l'expérimentation:**
+**Ce que vous avez ressenti (avant/après) l'expérimentation:** *Mission Décollage* n'était pas en deuxième place après ma première visite, mais l'oeuvre a su grimpé à chaque retour. Ma première impression me donnait l'impression d'être sudmergé. Intimidant, il y avait trop de consignes, de commandes. L'aspect en équipe me destabilisait. Il y avait aussi trop de monde lors de mes deux premières visites, ce n'est donc qu'à la troisième que je me suis lancée. J'ai été agréablement surprise que deux des créateurs présents étaient très investi dans l'accompagnement des joueurs et ponctuaient les avertissements du jeu avec les leurs pour aider à la compréhension des mécanismes. L'eouvre prend la deuxième place seulement parce que le jeu avait beaucoup d'instructions écrites qui étaient difficiles à suivre. Le visuel était immersif avec ses trois projecteurs.
 
 <br>
 
@@ -39,7 +41,7 @@ Photo d'ensemble
 
 > *Photographie et schématisation faitent par les créateurs: Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani et Rafael Angon Dube.*
 
-**Ce que vous avez ressenti (avant/après) l'expérimentation:**
+**Ce que vous avez ressenti (avant/après) l'expérimentation:** *Arbre-en-face* est une oeuvre qui m'a beaucoup plus pour son interractivité avec les autres. La toile et l'idée de voir son visage ou celui d'un proche donnait envie d'aller toucher l'oeuvre. Il ajoutait un aspect humoristique qui faisait éclore des rires de tant en tant dans la salle. J'ai apprécié l'amélioration de la qualité des images entre ma première et ma deuxième visite. Le partage d'une banque d'images entre l'oeuvre *Quand les yeux se croisent* et celle-ci a grandement aidé à ne pas rendre l'expérience répétitive. Cependant, bien que le changement fait pour faire pousser l'arbre où on voulait aidait avec l'immersion, elle contraignant la pousse des arbres qui étaient devenu plus difficile qu'à ma première visite. Pour les créateurs, leur implications avec le public était correcte, ils répondaient avec passion aux questions et aimaient raconté des annecdotes dans la conception du projet.
 
 <br>
 
@@ -51,7 +53,7 @@ Photo d'ensemble
 
 > *Photographie et schématisation faitent par les créateurs: Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano et Mégane Ranger.*
 
-**Ce que vous avez ressenti (avant/après) l'expérimentation:**
+**Ce que vous avez ressenti (avant/après) l'expérimentation:** *Terminal* est une oeuvre que j'attendais avec impatience d'essayer, mais une fois aboutit, j'ai discerné des lacunes assez importantes. Techniquement, le jeu était très ambitieux et très bien exécuté. 
 
 <br>
 
