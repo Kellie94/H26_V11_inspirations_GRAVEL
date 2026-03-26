@@ -53,7 +53,7 @@ Photo d'ensemble
 
 > *Photographie et schématisation faitent par les créateurs: Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano et Mégane Ranger.*
 
-**Ce que vous avez ressenti (avant/après) l'expérimentation:** *Terminal* est une oeuvre que j'attendais avec impatience d'essayer, mais une fois aboutit, j'ai discerné des lacunes assez importantes. Techniquement, le jeu était très ambitieux et très bien exécuté. 
+**Ce que vous avez ressenti (avant/après) l'expérimentation:** *Terminal* est une oeuvre que j'attendais avec impatience d'essayer, mais une fois aboutit, j'ai discerné des lacunes assez importantes. Techniquement, le jeu était très ambitieux et très bien exécuté, mais il y avait trop de niveaux, ce qui fait que la rotation des joueurs ne se faisaient pas efficacement. Il y a eu un cas en particulier où des personnes ne quittaient plus le jeu et beaucoup d'attentes se créaient. Il y a eu une intervention où les créateurs ont dû créer un bug pour faire partir les joueurs et laissaient par cette occasion d'autres personnes essayées lors de la soirée de vernissage. Je n'ai pu parlé qu'avec le principal créateur du jeu lors de la première visite, cependant je n'ai pu trouver aucun membre de l'équipe pendant le vernissage. Lorsque j'ai demandé à savoir où ils se trouvaient pour répondre aux questions techniques de la personne qui m'accompagnait, les professeurs ne pouvaient me montrer où ils se trouvaient. Le jeu était laissé à lui-même. J'ai trouvé cette partie décevante dans mon expérience, puisque je ressentais que l'oeuvre était plus la création d'une seule personne, plutôt que d'une fierté en équipe. Le partage entre les créateurs et les joueurs n'étaient pas présents contrairement aux autres.
 
 <br>
 
@@ -65,7 +65,7 @@ Photo d'ensemble
 
 > *Photographie et schématisation faitent par les créateurs: Créateurs: Yannick Chamberland, Benjamin Ferland, Ryan Dufault et Walid Cheour.*
 
-**Ce que vous avez ressenti (avant/après) l'expérimentation:**
+**Ce que vous avez ressenti (avant/après) l'expérimentation:** 
 
 <br>
 
