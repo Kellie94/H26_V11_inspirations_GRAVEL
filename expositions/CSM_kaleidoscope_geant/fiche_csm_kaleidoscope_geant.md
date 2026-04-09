@@ -43,7 +43,7 @@ L'exposition se situe au deuxième étage de l'édifice. Le dispositif est situ�
 
 > Vue d'ensemble du dispositif *Collecteur de mémoires*, photographie par Stéphane Brügger
 
-- **Dispositif:** Collecteur de mémoires
+- **Dispositif:** Kaléidoscope Géant
 - **Année:** 2017
 - **Nom de la compagnie:** Moment Factory
 - **Courte présentation de la compagnie et de son dispositif:** Pointe-à-Callière a mandaté Moment Factory pour réaliser le dispositif Collecteur de mémoires. Le but était de créer une expérience immersive qui permettrait de mettre en valeur l'ingénierie architecturale de l'endroit sans pour autant que les visiteurs se sentent à l'étroit. L'inspiration de leur dispositif vient de l'eau, des saisons et de l'histoire humaine des lieux. L'intégration << des images d’archives représentant la mémoire des Montréalais se transforment en particules de lumière qui ondoient le long des parois, comme bercées par les flots imaginaires de la Petite rivière. >> permet de comprendre le lien entre les visiteurs et les gens du passé. (https://momentfactory.com/, 2026)
@@ -98,3 +98,5 @@ Lors de ma visite, j'étais accompagnée, c'est l'une des choses que j'ai appré
 https://www.tknl.com/projet-experiences/explore-la-science-en-grand-centre-des-sciences-de-montreal
 https://www.centredessciencesdemontreal.com/exposition-permanente/explore
 https://www.centredessciencesdemontreal.com/sites/default/files/inline-files/Matinees%20apaisees-guide%20accompagnement-fr.pdf
+https://www.centredessciencesdemontreal.com/blogue/explore-reinventer-un-classique
+https://acmedecors.com/portfolio_page/explore
