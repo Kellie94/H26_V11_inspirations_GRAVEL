@@ -17,11 +17,11 @@ Une exposition sur les différents aspects scientifiques
 <br>
 
 ## Le parcours de l'exposition *Explore*
-<img src="./medias/pac_collecteur_memoires_plan.png" alt="plan vue d'en haut du musée Pointe-à-Callière" width="400">
+<img src="./medias/KG_schema_explore.png" alt="plan vue d'en haut de l'exposition Explore" width="400">
 
-> Plan du musée vue d'en haut, image provenant d'un pdf fourni par le musée de Pointe-à-Callière
+> Plan de l'exposition *Explore* vue d'en haut, image provenant d'un pdf fourni par le Centre des Sciences de Montréal pour les personnes avec des besoins particuliers
 
-L'exposition se situe dans la partie B en jaune encadrant l'entièreté de l'exposition Premier égout collecteur de Montréal. L'exposition se divise en deux parties, l'une est informative et l'autre est une expérience immersive. En ce qui concerne la première, elle comporte un panneau illuminé horizontal explicatif à côté d'une animation projetée sur le mur opposé à l'entrée du dispositif. Il y a également une plaque commémorative en l'honneur de l'ingénierie civile CSCE.
+L'exposition se situe au deuxième étage de l'édifice. Le dispositif est situé en haut à droite du schéma. Il est l'une des deux entrées principales et ou sorties de l'exposition.
 
 <img src="./medias/pac_collecteur_memoires_informations.png" alt="Photographie du panneau informatif de la construction du premier collecteur d'égout de Montréal" width="400">
 
