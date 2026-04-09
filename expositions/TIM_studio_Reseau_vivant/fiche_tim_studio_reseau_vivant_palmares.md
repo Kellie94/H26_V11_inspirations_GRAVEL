@@ -77,7 +77,7 @@ Photo d'essemble
 
 > *Photographie et schématisation faitent par les créateurs: Créateurs: Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif.*
 
-**Ce que vous avez ressenti (avant/après) l'expérimentation:** *Quand les yeux se croisent* est une oeuvre visuellement très belle. Contrairement au autre, elle demandait moins d'intérractivité. Elle servait plus un but contemplatif et réflectif. Malheureusement, cette oeuvre occupe la dernière place parce que la banque d'image des yeux accumulée des personnes ne s'affichaient pas toujours et créait une déception chez le spectateur. 
+**Ce que vous avez ressenti (avant/après) l'expérimentation:** *Quand les yeux se croisent* est une oeuvre visuellement très belle. Contrairement au autre, elle demandait moins d'intérractivité. Elle servait plus un but contemplatif et réflectif. Malheureusement, cette oeuvre occupe la dernière place parce que la banque d'image des yeux accumulée des personnes ne s'affichaient pas toujours, occasionnant une déception chez le spectateur et l'ambiance sonore n'était pas audible lorsque l'endroit était achalandé. 
 
 <br>
 
