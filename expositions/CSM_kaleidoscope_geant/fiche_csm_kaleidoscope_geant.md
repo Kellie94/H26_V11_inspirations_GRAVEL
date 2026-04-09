@@ -17,7 +17,7 @@ Une exposition sur les différents aspects scientifiques
 <br>
 
 ## Le parcours de l'exposition *Explore*
-<img src="./medias/KG_schema_explore.png" alt="plan vue d'en haut de l'exposition Explore" width="400">
+<img src="./medias/KG_schema_explore.png" alt="plan vue d'en haut de l'exposition Explore" width="500">
 
 > Plan de l'exposition *Explore* vue d'en haut, image provenant d'un pdf fourni par le Centre des Sciences de Montréal pour les personnes avec des besoins particuliers
 
