@@ -1,22 +1,22 @@
 # Ma visite au Centre des Sciences de Montréal
 Une exposition sur les différents aspects scientifiques
 
-<img src="./medias/JG_affiche.png" alt="Affiche de l'exposition Explore" width="300">
+<img src="./medias/KG_affiche.png" alt="Affiche de l'exposition Explore" width="300">
 
 > Affiche de l'exposition *Explore* sur une structure métallique.
 
 <br>
 
 ## Informations sur l'exposition
-- **Nom de l'exposition:** Explore
-- **Lieu:** Centre des Sciences de Montréal, 2 R. de la Commune O, Montréal, QC H2Y 4B2
+- **Nom de l'exposition:** Explore - La science en grand
+- **Lieu:** Centre des Sciences de Montréal, 2 R. de la Commune O, Montréal (QC) H2Y 4B2
 - **Type d'exposition:** Intérieur, permanent
 - **Duré de l'exposition:** À l'année
-- **Sujet de l'exposition:** L'exposition raconte l'histoire du premier égout collecteur en Amérique du Nord, construit à Montréal entre 1832 et 1838, et comment il a été réalisé, puis désaffecté et finalement incorporé au musée Pointe-à-Callière. (https://pacmusee.qc.ca/, 2026)
+- **Sujet de l'exposition:** L'exposition aide à la compréhension de plusieurs procédés scientifiques par la verbalisation et l'expérimentation diversifiante et éducative. (https://www.centredessciencesdemontreal.com, 2026)
 
 <br>
 
-## Le parcours de l'exposition *Premier égoût collecteur*
+## Le parcours de l'exposition *Explore*
 <img src="./medias/pac_collecteur_memoires_plan.png" alt="plan vue d'en haut du musée Pointe-à-Callière" width="400">
 
 > Plan du musée vue d'en haut, image provenant d'un pdf fourni par le musée de Pointe-à-Callière
