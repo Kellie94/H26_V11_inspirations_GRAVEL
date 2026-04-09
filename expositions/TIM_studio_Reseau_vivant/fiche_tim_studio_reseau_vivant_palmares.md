@@ -9,6 +9,7 @@ L'exposition "*explore la connectivité et les expériences partagées*", ce qui
 
 ### 1. Océan Rouge
 
+<img src="./medias/RV_OceanRouge_vue_ensemble.jpg" alt="Vue d'ensemble de l'oeuvre Océan Rouge." width="400">
 Photo d'ensemble
 <br>
 <img src="./medias/RV_OceanRouge_schema_vue_face.png" alt="Schéma de l'oeuvre Océan Rouge vue de face." width="400"><img src="./medias/RV_OceanRouge_schema_vue_cote.png" alt="Schéma de l'oeuvre Océan Rouge vue de côté." width="400">
@@ -23,6 +24,7 @@ Photo d'ensemble
 
 ### 2. Mission décollage
 
+<img src="./medias/RV_Missiondecollage_vue_ensemble.jpg" alt="Vue d'ensemble de l'oeuvre Mission Décollage." width="400">
 Photo d'ensemble
 
 <img src="./medias/RV_MissionDecollage_schema.png" alt="Schéma de l'oeuvre Mission Décollage." width="400">
@@ -35,6 +37,7 @@ Photo d'ensemble
 
 ### 3. Arbre-en-face
 
+<img src="./medias/RV_Arbreenface_vue_ensemble.jpg" alt="Vue d'ensemble de l'oeuvre Arbre-en-face." width="400">
 Photo d'ensemble
 
 <img src="./medias/RV_Arbreenface_schema_vue_face.jpg" alt="Schéma de l'oeuvre Arbre-en-face vue de face." width="400"><img src="./medias/RV_Arbreenface_schema_vue_cote.jpg" alt="Schéma de l'oeuvre Arbre-en-face vue de côté." width="400">
@@ -47,6 +50,7 @@ Photo d'ensemble
 
  ### 4. TERMINAL
 
+<img src="./medias/RV_terminal_vue_ensemble.jpg" alt="Vue d'ensemble de l'oeuvre Terminal." width="400">
 Photo d'ensemble
 
 <img src="./medias/RV_Terminal_schema.png" alt="Schéma de l'oeuvre Terminal." width="400">
@@ -59,6 +63,7 @@ Photo d'ensemble
 
 ### 5. Symbiose
 
+<img src="./medias/RV_Symbiose_vue_ensemble.jpg" alt="Vue d'ensemble de l'oeuvre Symbiose." width="400">
 Photo d'ensemble
 
 <img src="./medias/RV_Symbiose_schema.png" alt="Schéma de l'oeuvre Symbiose." width="400">
@@ -71,6 +76,7 @@ Photo d'ensemble
 
 ### 6. Quand les yeux se croisent
 
+<img src="./medias/RV_Quandlesyeuxsecroisent_vue_ensemble.jpg" alt="Vue d'ensemble de l'oeuvre Quand les yeux se croisent." width="400">
 Photo d'essemble
 
 <img src="./medias/RV_Quandlesyeuxsecroisent_schema.jpeg" alt="Schéma de l'oeuvre Quand les yeux se croisent." width="400">
