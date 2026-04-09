@@ -95,3 +95,6 @@ Lors de ma visite, j'étais accompagnée, c'est l'une des choses que j'ai appré
 <br>
 
 **Références**
+https://www.tknl.com/projet-experiences/explore-la-science-en-grand-centre-des-sciences-de-montreal
+https://www.centredessciencesdemontreal.com/exposition-permanente/explore
+https://www.centredessciencesdemontreal.com/sites/default/files/inline-files/Matinees%20apaisees-guide%20accompagnement-fr.pdf
