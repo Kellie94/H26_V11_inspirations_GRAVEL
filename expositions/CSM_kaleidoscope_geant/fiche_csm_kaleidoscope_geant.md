@@ -1,15 +1,15 @@
-# Ma visite au musée Pointe-à-Callière
-Une exposition sur le premier égout collecteur de Montréal
+# Ma visite au Centre des Sciences de Montréal
+Une exposition sur les différents aspects scientifiques
 
-<img src="./medias/pac_collecteur_memoires_affiche.png" alt="Panneau illuminé de l'exposition" width="300">
+<img src="./medias/JG_affiche.png" alt="Affiche de l'exposition Explore" width="300">
 
-> Panneau illuminé de l'exposition *Le premier égout collecteur* à l'entrée du dispositif *Collecteur de mémoires*
+> Affiche de l'exposition *Explore* sur une structure métallique.
 
 <br>
 
 ## Informations sur l'exposition
-- **Nom de l'exposition:** Premier égout collecteur
-- **Lieu:** Musée Pointe-à-Callière - 350 Pl. Royale (niveau rez-de-jardin) Montréal (QC) H2Y 3Y5
+- **Nom de l'exposition:** Explore
+- **Lieu:** Centre des Sciences de Montréal, 2 R. de la Commune O, Montréal, QC H2Y 4B2
 - **Type d'exposition:** Intérieur, permanent
 - **Duré de l'exposition:** À l'année
 - **Sujet de l'exposition:** L'exposition raconte l'histoire du premier égout collecteur en Amérique du Nord, construit à Montréal entre 1832 et 1838, et comment il a été réalisé, puis désaffecté et finalement incorporé au musée Pointe-à-Callière. (https://pacmusee.qc.ca/, 2026)
