@@ -3,7 +3,7 @@ Une exposition réalisée par les finissants de la technique d'intégration mult
 
 <img src="./medias/RV_affiche.png" alt="Panneau illuminé de l'exposition" width="300">
 
-> Affiche de l'exposition sur le site internet du collège Montmorency sur la page de l'évènement
+> Affiche de l'exposition sur la page d'évènement du collège Montmorency
 
 <br>
 
