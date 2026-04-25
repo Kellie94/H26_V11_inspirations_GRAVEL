@@ -1,9 +1,9 @@
-# Ma visite au musée Pointe-à-Callière
-Une exposition sur le premier égout collecteur de Montréal
+# Ma visite à l'expositon Réseau Vivant
+Une exposition réalisée par les finissants de la technique d'intégration multimédia au collège Montmorency.
 
-<img src="./medias/pac_collecteur_memoires_affiche.png" alt="Panneau illuminé de l'exposition" width="300">
+<img src="./medias/RV_affiche.png" alt="Panneau illuminé de l'exposition" width="300">
 
-> Panneau illuminé de l'exposition *Le premier égout collecteur* à l'entrée du dispositif *Collecteur de mémoires*
+> Affiche de l'exposition sur le site internet du collège Montmorency sur la page de l'évènement
 
 <br>
 
@@ -95,3 +95,4 @@ Lors de ma visite, j'étais accompagnée, c'est l'une des choses que j'ai appré
 <br>
 
 **Références**
+https://www.cmontmorency.qc.ca
