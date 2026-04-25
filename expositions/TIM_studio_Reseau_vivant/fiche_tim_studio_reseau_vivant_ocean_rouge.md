@@ -8,15 +8,15 @@ Une exposition réalisée par les finissants de la technique d'intégration mult
 <br>
 
 ## Informations sur l'exposition
-- **Nom de l'exposition:** Premier égout collecteur
-- **Lieu:** Musée Pointe-à-Callière - 350 Pl. Royale (niveau rez-de-jardin) Montréal (QC) H2Y 3Y5
-- **Type d'exposition:** Intérieur, permanent
-- **Duré de l'exposition:** À l'année
-- **Sujet de l'exposition:** L'exposition raconte l'histoire du premier égout collecteur en Amérique du Nord, construit à Montréal entre 1832 et 1838, et comment il a été réalisé, puis désaffecté et finalement incorporé au musée Pointe-à-Callière. (https://pacmusee.qc.ca/, 2026)
+- **Nom de l'exposition:** Réseau Vivant
+- **Lieu:**  Collège Montmorency, Grand Studio C-1712 - 475, Boulevard de l'Avenir, Laval, QC H7N 5H9
+- **Type d'exposition:** Intérieur, temporaire
+- **Duré de l'exposition:** 16 - 20 mars 2026
+- **Sujet de l'exposition:** L'exposition *Réseau Vivant* "explore la connectivité et les expériences partagées, se déployant comme une toile vivante tissée d'échanges, de gestes, de données et d'émotions." (https://tim-montmorency.com/2026/)
 
 <br>
 
-## Le parcours de l'exposition *Premier égoût collecteur*
+## Le parcours de l'exposition *Réseau Vivant*
 <img src="./medias/pac_collecteur_memoires_plan.png" alt="plan vue d'en haut du musée Pointe-à-Callière" width="400">
 
 > Plan du musée vue d'en haut, image provenant d'un pdf fourni par le musée de Pointe-à-Callière
@@ -95,4 +95,5 @@ Lors de ma visite, j'étais accompagnée, c'est l'une des choses que j'ai appré
 <br>
 
 **Références**
-https://www.cmontmorency.qc.ca
+https://www.cmontmorency.qc.ca (consulté le 25 avril 2026)<br>
+https://tim-montmorency.com/2026/ (consulté le 25 avril 2026)<br>
