@@ -81,6 +81,14 @@ L'exposition "*explore la connectivité et les expériences partagées*", ce qui
 
 <br>
 
+### Réflexion sur mon cheminement
+
+**Les trois programmes indispensables pour avoir les compétences pour faire ce genre de projet:** Selon moi, les trois cours incontournables pour avoir les compétences requis pour ce type de projet est conception d’une expérience multimédia, installation multimédia et objets interactifs L'installation. Le cours de conception permet de développer une méthode de travail pour la pré production à un projet de cette ampleur, celui d'installation permet d'apprendre à "*intégrer et optimiser les médias pour la diffusion à grande échelle à l’aide d’un dispositif sur mesure*" et finalement objets interactifs approfondit les connaissances pratiques pour intégrer des technologies électroniques à des produits multimédias.
+
+**Nommer et décrire une technique ou une composante technologique qui est utilisée dans l'un des projets et que vous ne connaissiez pas:** La technologie que je ne connaissais pas étais le potentiomètre de type joystick à 4 axes utilisée sur la station d'arcade d'Océan Rouge. Je connaissais plusieurs types de joysticks seulement parce que je collectionne les consoles, mais je n'en avais jamais vu un qui permettait une rotation sur lui-même en plus de pouvoir aller de gauche à droite et d'haut en bas. Avec cette interrogation, je suis allée consulter une vidéo Youtube *How to Wire Basic 4-Axis Joystick/Throttle for your Star Wars Arcade1up Mod (Model: R400B-M4)* par Kongs-R-Us, qui explique qu'il est possible de non seulement bouger sur l'axe des x et y, mais également sur l'axe des z, ce qui m'avait intrigué. J'ai appris que les signaux étaient envoyés via un potentiomètre à trois bornes qui ajuste le courant ou le circuit électronique. De cette façon, il est possible par un mouvement d'envoyer des signaux et ces signaux sont lus par l'ordinateur qui va ensuite exécuter les fonctions programmées. (wikipédia, 2026)
+
 **Médiagraphie**
 <br>
 https://tim-montmorency.com/2026/ (consulté le 19 mars 2026)
+https://www.youtube.com/watch?v=uUeDE8o02q8&t=90s (consulté le 25 avril 2026)
+https://fr.wikipedia.org/wiki/Potentiom%C3%A8tre (consulté le 25 avril 2026)
