@@ -61,36 +61,35 @@ L'exposition se situe dans la partie B en jaune encadrant l'entièreté de l'exp
 > Photographies des composantes techniques: une boîte étanche contenant un projecteur, un fil LED, une boîte étanches contenant des câbles éclairé par deux spots de lumière.
 
 **Composantes et techniques:**
-- 18 projecteurs dans des boîtes étanches
-- Entre 10-15 spots de lumière jaunâtre
-- Bandes de lumières LED
+- Borne d'arcade en bois
+- Manette de jeu "joystick" à bouton protentiomètre 4 axes
+- Moniteur
+- Ordinateur
+- Clavier
 - Câblages
-- Boîtes étanches pour fils
+- Arduino Nano
+- Logiciel: Unity
   
 **Éléments nécessaires à la mise en exposition:** 
-- Passerelle
+- Support pour maintenir la cartel
 
 <br>
 
 ## Mon expérience vécue
 
-<img src="./medias/pac_collecteur_memoires_moi.png" alt="Égo portrait de moi devant le musée de la Point-à-Callière" width="400">
+<img src="./medias/RV_ego_portrait.png" alt="Égo portrait de moi devant la projection de l'affiche de l'exposition Réseau Vivant" width="400">
 
-> Égo portrait de moi devant le musée de la Pointe-à-Callière
-
-<br>
-
-À mon entrée dans l'exposition du *Premier égout collecteur*, j'avais déjà cette impression solennelle d'être témoin du passé avec l'exposition précédente : *Montréal au cœur des échanges*. Bien que les anciennes structures précédentes étaient intéressantes, celles de l'égout collecteur étaient impressionnantes. Elles n'avaient pas bougé sous les inondations, le feu ou la terre comme les autres, elles étaient intactes. Prendre conscience des informations avant de me rendre dans le Collecteur des mémoires m'a permis de me concentrer sur l'expérience seulement et de consolider l'idée du rapport de proximité entre le passé et moi.
-
-L'endroit paraissait grand et pourtant, je me sentais petite et un peu à l'étroit dans ce tunnel rempli d'histoire. Je me trouvais jeune comparée à ce trésor historique. J'admirais les techniques employées par des gens de 1832-1838 pour construire quelque chose d'aussi solide pour contenir une petite rivière. Je n'ai pu m'empêcher de comparer ça à nos infrastructures d'aujourd'hui. Il y a à réfléchir sur la qualité de nos constructions et de ce qu'on laissera comme impression dans le futur.
-
-Lors de ma visite, j'étais accompagnée, c'est l'une des choses que j'ai appréciées du dispositif. Malgré que je sentais toute petite dans cette immensité, j'avais quelqu'un avec qui partager cette expérience en même temps. Nous pouvions partager et nous isoler si la réflexion nous venait. Je me suis sentie apaisée et en harmonie dans un tout plus grand que moi. Comme quoi, un simple égout collecteur peut nous apprendre sur l'humain et ses capacités.
+> Égo portrait de moi devant la projection de l'affiche de l'exposition Réseau Vivant
 
 <br>
 
-- **Ce qui vous a plu, vous a donné des idées :** Ce que je reprendrais est cet aspect historique avec les photos qui se dématérialisent en étincelles de lumière qui flottent comme de l'eau. Cette métaphore visuelle était très jolie et élevait significativement l'importance du lieu. Cela m'inspire à utiliser ce type de métaphore dans mes projets pour raconter au mieux mes histoires. Je crois que c'est une bonne façon d'exprimer de la profondeur. Sur un aspect un peu plus technique, j'ai apprécié la contrainte d'un lieu humide et dont on ne doit pas abîmer. Je tâcherai de penser à ce genre de détails pour la fabrication de mes œuvres.
+
+
+<br>
+
+- **Ce qui vous a plu, vous a donné des idées :** 
  
-- **Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement :** Malgré que j'ai aimé l'ensemble du dispositif, il y avait un manque en début de parcours. Ce n'est qu'à plusieurs mètres plus loin qu'il y a eu des choses à regarder et à assimiler. Le début du parcours se résumait à des lumières LED seulement. J'apporterais plus d'éléments et d'équilibre dans un dispositif comme celui-ci.
+- **Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement :** 
 
 <br>
 
