@@ -87,6 +87,8 @@ L'exposition "*explore la connectivité et les expériences partagées*", ce qui
 
 **Nommer et décrire une technique ou une composante technologique qui est utilisée dans l'un des projets et que vous ne connaissiez pas:** La technologie que je ne connaissais pas étais le potentiomètre de type joystick à 4 axes utilisée sur la station d'arcade d'Océan Rouge. Je connaissais plusieurs types de joysticks seulement parce que je collectionne les consoles, mais je n'en avais jamais vu un qui permettait une rotation sur lui-même en plus de pouvoir aller de gauche à droite et d'haut en bas. Avec cette interrogation, je suis allée consulter une vidéo Youtube *How to Wire Basic 4-Axis Joystick/Throttle for your Star Wars Arcade1up Mod (Model: R400B-M4)* par Kongs-R-Us, qui explique qu'il est possible de non seulement bouger sur l'axe des x et y, mais également sur l'axe des z, ce qui m'avait intrigué. J'ai appris que les signaux étaient envoyés via un potentiomètre à trois bornes qui ajuste le courant ou le circuit électronique. De cette façon, il est possible par un mouvement d'envoyer des signaux et ces signaux sont lus par l'ordinateur qui va ensuite exécuter les fonctions programmées. (wikipédia, 2026)
 
+<img src="./medias/ocean_rouge_bouton_potentiometre.png" alt="Bouton de potentiomètre à 4 axes en plastique" width="400">
+
 **Médiagraphie**
 <br>
 https://tim-montmorency.com/2026/ (consulté le 19 mars 2026)
