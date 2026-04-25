@@ -1,4 +1,4 @@
-# Ma visite à l'expositon Réseau Vivant
+# Ma visite à l'expositon *Réseau Vivant*
 Une exposition réalisée par les finissants de la technique d'intégration multimédia au collège Montmorency.
 
 <img src="./medias/RV_affiche.png" alt="Panneau illuminé de l'exposition" width="300">
@@ -17,7 +17,7 @@ Une exposition réalisée par les finissants de la technique d'intégration mult
 <br>
 
 ## Le parcours de l'exposition *Réseau Vivant*
-<img src="./medias/pac_collecteur_memoires_plan.png" alt="plan vue d'en haut du musée Pointe-à-Callière" width="400">
+<img src="./medias/ocean_rouge_photo_logos.png" alt="plan vue d'en haut du musée Pointe-à-Callière" width="400">
 
 > Plan du musée vue d'en haut, image provenant d'un pdf fourni par le musée de Pointe-à-Callière
 
