@@ -91,6 +91,6 @@ L'exposition "*explore la connectivité et les expériences partagées*", ce qui
 
 **Médiagraphie**
 <br>
-https://tim-montmorency.com/2026/ (consulté le 19 mars 2026)
-https://www.youtube.com/watch?v=uUeDE8o02q8&t=90s (consulté le 25 avril 2026)
-https://fr.wikipedia.org/wiki/Potentiom%C3%A8tre (consulté le 25 avril 2026)
+https://tim-montmorency.com/2026/ (consulté le 19 mars 2026)<br>
+https://www.youtube.com/watch?v=uUeDE8o02q8&t=90s (consulté le 25 avril 2026)<br>
+https://fr.wikipedia.org/wiki/Potentiom%C3%A8tre (consulté le 25 avril 2026)<br>
