@@ -41,24 +41,24 @@ L'exposition se situe dans la partie B en jaune encadrant l'entièreté de l'exp
 
 <img src="./medias/pac_collecteur_memoires_vue_ensemble_02.png" alt="Photographie d'ensemble du dispositif" width="500">
 
-> Vue d'ensemble du dispositif *Collecteur de mémoires*, photographie par Stéphane Brügger
+> Vue d'ensemble de l'oeuvre *Ocean Rouge*, photographie par Stéphane Brügger
 
-- **Dispositif:** Collecteur de mémoires
-- **Année:** 2017
-- **Nom de la compagnie:** Moment Factory
-- **Courte présentation de la compagnie et de son dispositif:** Pointe-à-Callière a mandaté Moment Factory pour réaliser le dispositif Collecteur de mémoires. Le but était de créer une expérience immersive qui permettrait de mettre en valeur l'ingénierie architecturale de l'endroit sans pour autant que les visiteurs se sentent à l'étroit. L'inspiration de leur dispositif vient de l'eau, des saisons et de l'histoire humaine des lieux. L'intégration << des images d’archives représentant la mémoire des Montréalais se transforment en particules de lumière qui ondoient le long des parois, comme bercées par les flots imaginaires de la Petite rivière. >> permet de comprendre le lien entre les visiteurs et les gens du passé. (https://momentfactory.com/, 2026)
+- **Oeuvre:** Océan Rouge
+- **Année:** 2025
+- **Noms des artistes:** Amira Tounekti et Kristy Moussally
+- **Courte présentation des artistes et du programme:**
 
 <br>
 
-<img src="./croquis/pac_collecteur_memoires_croquis_vue_haut.png" alt="Croquis vue de haut du dispositif Collecteur de mémoires" width="400">
+<img src="./croquis/pac_collecteur_memoires_croquis_vue_haut.png" alt="Croquis vue de biais de l'oeuvre Ocean Rouge." width="400">
 
-> Croquis de la mise en espace du dipositif *Collecteur de mémoires* vue de haut
+> Croquis de la mise en espace de l'oeuvre *Océan Rouge* vue de biais
 
-- **Mise en espace:** La mise en espace du dispositif consiste en un tunnel de 110 mètres de long avec des lumières LED de chaque côté de la passerelle métallique. Ces lumières changent la couleur des murs en passant par le rouge, le rose, le turquoise, le bleu et le violet. Un projecteur affiche sur le mur du fond des photographies de la période de construction de l'égout collecteur qui se "désintègrent" vers le bas comme de l'eau qui coule. Les autres projecteurs, à l'aide de projection mapping, projettent une animation de particules multicolores qui s'éloignent vers l'avant du tunnel dans une branche secondaire.
+- **Mise en espace:** La mise en espace de l'oeuvre 
 
-<img src="./medias/pac_collecteur_memoires_boite.png" alt="Photographie d'une boîte étanche contenant des câbles" width="300"> <img src="./medias/pac_collecteur_memoires_lumiere.png" alt="Photographie du fil de lumières LED le long de la palissade" width="300"> <img src="./medias/pac_collecteur_memoires_projecteur_02.jpg" alt="Photographie d'un projecteur dans une boîte étanche" width="300">
+<img src="./medias/ocean_rouge_vue_ensemble.png" alt="Photographie d'ensemble de l'oeuvre Océan Rouge." width="300"> <img src="./medias/ocean_rouge_ordinateur.png" alt="Photographie de l'ordinateur." width="300"> <img src="./medias/" alt="ocean_rouge_rapproche.png" width="300">
 
-> Photographies des composantes techniques: une boîte étanche contenant un projecteur, un fil LED, une boîte étanches contenant des câbles éclairé par deux spots de lumière.
+> Photographies des composantes techniques: un moniteur, une manette de jeu de type "joystick", un ordinateur, un clavier, une arcade et des câbles.
 
 **Composantes et techniques:**
 - Borne d'arcade en bois
@@ -83,13 +83,9 @@ L'exposition se situe dans la partie B en jaune encadrant l'entièreté de l'exp
 
 <br>
 
-
-
-<br>
-
-- **Ce qui vous a plu, vous a donné des idées :** 
+- **Ce qui vous a plu, vous a donné des idées :** C'était une belle expérience d"assister à l'exposition des finissants de mon programme. Je pouvais me projeter dans un avenir relativement proche et me demander, est-ce que c'est ce que je veux faire? Mon être fébrile d'excitation m'a confirmé que oui, j'étais à ma place dans ce environnement créatif. Je pouvais voir les oeuvres rejoindrent les gens comme j'ai toujours voulu faire de ma vie. Ce que j'ai le plus aimé de mon oeuvre choisi, *Océan Rouge*, c'est l'approche un peu plus intime de l'arcade contrairement aux autres jeux qui s'étendaient sur les murs. Le format individuel et petit pourrait porter à croire qu'il n'arriverait pas à faire connecter les gens et pourquoi je n'ai pas ressenti ça. Je me suis retrouvée à encourager mes amis à faire un bon score. Le temps de jeu permettait une rotation efficace des joueurs sans que l'un accapare tout le temps.J'ai aimé aussi la cohérence esthétique et le tutoriel du début. Les artistes ont su répondre à toutes mes questions et plus encore. J'ai énormément apprécié leurs interventions. Le tout m'a inspiré à me surpasser. J'ai toujours voulu faire un petit jeu et c'est pourquoi celui-ci m'a interpellé plus que les autres. Il me semblait plus proche de ce que je pouvais atteindre et du style que je désirais faire.
  
-- **Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement :** 
+- **Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement :** Malgré que j'ai aimé *Océan Rouge*, j'aurais porté un peu plus d'attention au visuel de l'acarde. J'aurai ajouté des détails comme des vagues, des poissons, des déchets et possiblement le titre du jeu pour le rendre un peu plus invitant. De plus, j'aurais apporté des décors l'entourant qui pourraient avoir une réaction au succès ou l'échec du joueur, afin d'augmenter l'immersion.
 
 <br>
 
