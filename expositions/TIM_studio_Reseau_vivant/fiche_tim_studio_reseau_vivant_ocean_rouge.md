@@ -17,31 +17,19 @@ Une exposition réalisée par les finissants de la technique d'intégration mult
 <br>
 
 ## Le parcours de l'exposition *Réseau Vivant*
-<img src="./medias/ocean_rouge_photo_logos.png" alt="plan vue d'en haut du musée Pointe-à-Callière" width="400">
+<img src="./medias/RV_plan_salle.png" alt="plan vue d'en haut du Grand Studio et de l'emplacement des oeuvres." width="400"> <img src="./medias/RV_logo_plan.png" alt="plan vue d'en haut du Grand Studio et de l'emplacement des oeuvres." width="400">
 
-> Plan du musée vue d'en haut, image provenant d'un pdf fourni par le musée de Pointe-à-Callière
+> Plan du Grand studio vu d'en haut et de l'emplacement des oeuvres de l'exposition.
 
-L'exposition se situe dans la partie B en jaune encadrant l'entièreté de l'exposition Premier égout collecteur de Montréal. L'exposition se divise en deux parties, l'une est informative et l'autre est une expérience immersive. En ce qui concerne la première, elle comporte un panneau illuminé horizontal explicatif à côté d'une animation projetée sur le mur opposé à l'entrée du dispositif. Il y a également une plaque commémorative en l'honneur de l'ingénierie civile CSCE.
-
-<img src="./medias/pac_collecteur_memoires_informations.png" alt="Photographie du panneau informatif de la construction du premier collecteur d'égout de Montréal" width="400">
-
-> Texte explicatif sur l'histoire du premier égout collecteur, passant de son idéalisation, à sa construction, à sa désaffectation, puis à son intégration au musée de Pointe-à-Callière.
-
-<img src="./medias/pac_collecteur_memoires_projection_video.png" alt="Photographie du video projecté sur le mur en face du dispositif" width="400">
-
-> Projection vidéo de passants marchant au dessus du premier égout collecteur.
-
-<img src="./medias/pac_collecteur_memoires_csce.png" alt="Photographie de la plaque comémorative du site historique nationnal de l'ingénerie civil" width="400">
-
-> Plaque comémorative du site historique nationnal de l'ingénerie civil.
+L'exposition se situe au local C-1712, au Grand studio, du collège Montmorency. De droite à gauche, nous avons *Arbre en face, Océan Rouge, Terminal, Mission décollage, Symbiose* et *Quand les yeux se croisent*. À la porte de l'exposition, il y avait une projection du nom de l'exposition et un tableau blanc avec un plan de la salle et les logo de la technique et de l'exposition.
 
 <br>
 
-## Présentation du dispositif choisi
+## Présentation de l'oeuvre choisie
 
-<img src="./medias/pac_collecteur_memoires_vue_ensemble_02.png" alt="Photographie d'ensemble du dispositif" width="500">
+<img src="./medias/RV_OceanRouge_vue_ensemble.jpg" alt="Photographie d'ensemble de l'oeuvre." width="400">
 
-> Vue d'ensemble de l'oeuvre *Ocean Rouge*, photographie par Stéphane Brügger
+> Vue d'ensemble de l'oeuvre *Ocean Rouge*
 
 - **Oeuvre:** Océan Rouge
 - **Année:** 2025
@@ -50,7 +38,7 @@ L'exposition se situe dans la partie B en jaune encadrant l'entièreté de l'exp
 
 <br>
 
-<img src="./croquis/pac_collecteur_memoires_croquis_vue_haut.png" alt="Croquis vue de biais de l'oeuvre Ocean Rouge." width="400">
+<img src="./medias/RV_OceanRouge_schema_vue_face.png" alt="Schéma de l'oeuvre Océan Rouge vue de face." width="400"> <img src="./medias/RV_OceanRouge_schema_vue_cote.png" alt="Schéma de l'oeuvre Océan Rouge vue de côté." width="400">
 
 > Croquis de la mise en espace de l'oeuvre *Océan Rouge* vue de biais
 
@@ -92,3 +80,5 @@ L'exposition se situe dans la partie B en jaune encadrant l'entièreté de l'exp
 **Références**
 https://www.cmontmorency.qc.ca (consulté le 25 avril 2026)<br>
 https://tim-montmorency.com/2026/ (consulté le 25 avril 2026)<br>
+
+À moins d'une mention contraire, toutes les photos ont été prise par moi.
