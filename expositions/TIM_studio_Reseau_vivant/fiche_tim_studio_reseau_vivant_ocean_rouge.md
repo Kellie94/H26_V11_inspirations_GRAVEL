@@ -44,7 +44,7 @@ L'exposition se situe au local C-1712, au Grand studio, du collège Montmorency.
 
 - **Mise en espace:** La mise en espace de l'oeuvre 
 
-<img src="./medias/ocean_rouge_vue_ensemble.png" alt="Photographie d'ensemble de l'oeuvre Océan Rouge." width="300"> <img src="./medias/ocean_rouge_ordinateur.png" alt="Photographie de l'ordinateur." width="300"> <img src="./medias/" alt="ocean_rouge_rapproche.png" width="300">
+<img src="./medias/ocean_rouge_vue_ordinateur.png" alt="Photographie de l'ordinateur." width="300"> <img src="./medias/ocean_rouge_vue_rapproche.png" alt="" width="300">
 
 > Photographies des composantes techniques: un moniteur, une manette de jeu de type "joystick", un ordinateur, un clavier, une arcade et des câbles.
 
