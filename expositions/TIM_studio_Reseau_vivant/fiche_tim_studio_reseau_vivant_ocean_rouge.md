@@ -1,9 +1,9 @@
 # Ma visite à l'expositon *Réseau Vivant*
 Une exposition réalisée par les finissants de la technique d'intégration multimédia au collège Montmorency.
 
-<img src="./medias/RV_affiche.png" alt="Panneau illuminé de l'exposition" width="300">
+<img src="./medias/RV_affiche.png" alt="Affiche de l'exposition Réseau Vivant." width="300">
 
-> Affiche de l'exposition sur la page d'évènement du collège Montmorency
+> Affiche de l'exposition sur la page d'évènement du collège Montmorency.
 
 <br>
 
@@ -34,13 +34,13 @@ L'exposition se situe au local C-1712, au Grand studio, du collège Montmorency.
 - **Oeuvre:** Océan Rouge
 - **Année:** 2025
 - **Noms des artistes:** Amira Tounekti et Kristy Moussally
-- **Courte présentation des artistes et du programme:**
+- **Courte présentation des artistes:** Amira Tounekti a pour loisir le dessin. Elle cherche à intégrer une équipe en tant que designer web et monteuse vidéo. Elle se spécialise dans HTML, CSS, design graphique et montage vidéo. Elle a contribué à la programmation, communication technique et construction du panneau de contrôle dans *Océan Rouge*. Quant à Kristy Moussally, elle a fait l’installation, création des assets visuels et sonores. Elle se passionne pour la manipulation d'ohets 3D, l'interactivité sonore et l'animation 2D.
 
 <br>
 
 <img src="./medias/RV_OceanRouge_schema_vue_face.png" alt="Schéma de l'oeuvre Océan Rouge vue de face." width="400"> <img src="./medias/RV_OceanRouge_schema_vue_cote.png" alt="Schéma de l'oeuvre Océan Rouge vue de côté." width="400">
 
-> Croquis de la mise en espace de l'oeuvre *Océan Rouge* vue de biais
+> Croquis de la mise en espace de l'oeuvre *Océan Rouge* vue de face et de côté dans la partie technique de la page du projet.
 
 - **Mise en espace:** La mise en espace de l'oeuvre 
 
@@ -50,11 +50,12 @@ L'exposition se situe au local C-1712, au Grand studio, du collège Montmorency.
 
 **Composantes et techniques:**
 - Borne d'arcade en bois
-- Manette de jeu "joystick" à bouton protentiomètre 4 axes
+- Manette de jeu "joystick" à bouton potentiomètre 4 axes
 - Moniteur
 - Ordinateur
 - Clavier
 - Câblages
+- haut-parleur
 - Arduino Nano
 - Logiciel: Unity
   
@@ -77,8 +78,11 @@ L'exposition se situe au local C-1712, au Grand studio, du collège Montmorency.
 
 <br>
 
-**Références**
+**Références**<br>
 https://www.cmontmorency.qc.ca (consulté le 25 avril 2026)<br>
 https://tim-montmorency.com/2026/ (consulté le 25 avril 2026)<br>
+https://deux-intelligence.github.io/deux-neurones/#/technique/ (consulté le 25 avril 2025)<br>
+https://terresteur.github.io/portfolio-amira-tounekti/index.html (consulté le 25 avril 2026)<br>
+https://kristymoussally.github.io/portfolio/ (consulté le 25 avril 2026)<br>
 
 À moins d'une mention contraire, toutes les photos ont été prise par moi.
