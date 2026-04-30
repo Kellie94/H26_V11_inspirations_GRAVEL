@@ -1,1 +1,1 @@
-Photos du dispositif Changer de cap de l'exposition ... au musée de l'ingéniosité.
+Photos du dispositif du bogie de métro MR-73 au musée de l'ingéniosité.
