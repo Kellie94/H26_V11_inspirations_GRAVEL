@@ -17,44 +17,44 @@ Une exposition sur les différents aspects scientifiques
 <br>
 
 ## Le parcours de l'exposition *Explore*
-<img src="./medias/KG_schema_explore.png" alt="plan vue d'en haut de l'exposition Explore" width="500">
+<img src="./medias/KG_schema_explore.png" alt="plan vue d'en haut de l'exposition Explore" width="600">
 
 > Plan de l'exposition *Explore* vue d'en haut, image provenant d'un pdf fourni par le Centre des Sciences de Montréal pour les personnes avec des besoins particuliers
 
-L'exposition se situe au deuxième étage de l'édifice. Le dispositif est situé en haut à droite du schéma. Il est l'une des deux entrées principales et ou sorties de l'exposition.
-
-<img src="./medias/pac_collecteur_memoires_informations.png" alt="Photographie du panneau informatif de la construction du premier collecteur d'égout de Montréal" width="400">
-
-> Texte explicatif sur l'histoire du premier égout collecteur, passant de son idéalisation, à sa construction, à sa désaffectation, puis à son intégration au musée de Pointe-à-Callière.
+L'exposition se situe au deuxième étage de l'édifice. Le dispositif est situé en haut à droite du schéma. Il est l'un des deux accès visiteurs de l'exposition. *Explore* aborde plusieurs branches de la science, dont la lumière à laquelle le Kaléidoscope Géant en fait partie.
 
 <br>
 
 ## Présentation du dispositif choisi
 
-<img src="./medias/pac_collecteur_memoires_vue_ensemble_02.png" alt="Photographie d'ensemble du dispositif" width="500">
+<img src="./medias/KG_vue_ensemble_02.png" alt="Photographie du kaléidoscope Géant de face" width="400"> <img src="./medias/KG_vue_cote.png" alt="Photographie du kaléidoscope Géant de côté" width="400">
 
-> Vue d'ensemble du dispositif *Collecteur de mémoires*, photographie par Stéphane Brügger
+> Photographies vue de face et de côté du dispositif *Kaléidoscope Géant*
 
 - **Dispositif:** Kaléidoscope Géant
 - **Année:** 2017
 - **Nom de la compagnie:** Moment Factory
-- **Courte présentation de la compagnie et de son dispositif:**  (https://momentfactory.com/, 2026)
+- **Courte présentation de la compagnie et de son dispositif:** Le défi de la compagnie était de réussir à réinventer un classique *Science 26* qui est devenu *Explore*. Elle devait une vulgarisation des grandes thématiques de la science "de façon amusante et étonnante, mais surtout follement intuitive". (https://www.tknl.com) TKLN Expériences créer partout dans le monde et même en ligne. Pour ce projet, elle se s'est associé avec ACME DECORS qui "conçoit et réalise des décors pour l’industrie du spectacle et du divertissement, des installations pour les musées et des espaces commerciaux. Ses ateliers sont situés dans le Grand Montréal." (https://acmedecors.com)
+
+<img src="./croquis/KG_croquis.png" alt="Croquis vue de face du Kaléidoscope Géant" width="400">
+
+> Photgraphie de l'installation du Kaléidoscope Géant fournit par le site du Musée des Sciences de Montréal
 
 <br>
 
-<img src="./croquis/pac_collecteur_memoires_croquis_vue_haut.png" alt="Croquis vue de haut du dispositif Collecteur de mémoires" width="400">
+<img src="./croquis/KG_croquis.png" alt="Croquis vue de face du Kaléidoscope Géant" width="400">
 
-> Croquis de la mise en espace du dipositif *Collecteur de mémoires* vue de haut
+> Croquis de la mise en espace du dipositif *Kaléidoscope Géant* vue de face
 
-- **Mise en espace:** La mise en espace du dispositif consiste en 
+- **Mise en espace:** La mise en espace du dispositif consiste en un structure hexogonal métallique de couleur jaune avec des miroirs, des bandes de lumières LED et deux écrans. Le visiteur peut accéder à l'exposition par le passage de ce kaléidoscopte Géant et en ressortir. Il introduit à la partie de l'exposition sur la lumière.
 
-<img src="./medias/pac_collecteur_memoires_boite.png" alt="Photographie d'une boîte étanche contenant des câbles" width="300"> <img src="./medias/pac_collecteur_memoires_lumiere.png" alt="Photographie du fil de lumières LED le long de la palissade" width="300"> <img src="./medias/pac_collecteur_memoires_projecteur_02.jpg" alt="Photographie d'un projecteur dans une boîte étanche" width="300">
+<img src="./medias/KG_miroirs.png" alt="Photographie des miroirs" width="300"> <img src="./medias/KG_.png" alt="Photographie du fil de lumières LED le long de la palissade" width="300"> <img src="./medias/pac_collecteur_memoires_projecteur_02.jpg" alt="Photographie d'un projecteur dans une boîte étanche" width="300">
 
 > Photographies des composantes techniques: 
 
 **Composantes et techniques:**
-- miroirs
-- Bandes de lumières LED
+- 23 miroirs
+- 12 Bandes de lumières LED
 - 2 écrans
 - Câblages
 - Structure métallique de forme hexogonal
