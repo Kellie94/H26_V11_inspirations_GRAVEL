@@ -67,7 +67,7 @@ L'exposition se situe au deuxième étage de l'édifice. Le dispositif est situ�
 
 ## Mon expérience vécue
 
-<img src="./medias/KG_egoportrait_02.png" alt="Égo portrait de moi devant le Kaléidoscope Géant." width="400">
+<img src="./medias/KG_egoportrait_01.png" alt="Égo portrait de moi devant le Kaléidoscope Géant." width="400">
 
 > Égo portrait de moi devant le Kaléidoscope Géant.
 
@@ -85,7 +85,7 @@ Je me suis sentie comme une enfant à nouveau quand je suis entrée à l'exposit
 
 <br>
 
-**Références**
+**Références** <br>
 https://www.tknl.com/projet-experiences/explore-la-science-en-grand-centre-des-sciences-de-montreal
 https://www.centredessciencesdemontreal.com/exposition-permanente/explore
 https://www.centredessciencesdemontreal.com/sites/default/files/inline-files/Matinees%20apaisees-guide%20accompagnement-fr.pdf
