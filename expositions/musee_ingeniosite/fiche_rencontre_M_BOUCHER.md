@@ -6,17 +6,12 @@ Tout d’abord, la question : « C’est quoi le multimédia ?» a été posé e
 
 Par après, l’intervenant nous a parlé de ce qui m’a inspiré le plus : son projet sur le bogie du métro. Le mandat était d’améliorer le temps d’accrocher davantage l’attention des visiteurs au bogie d’un ancien métro. Il a donc produit à l’aide des employés aux archives comme vulgarisé de l’information sur le fonctionnement du démarrage du métro et pourquoi nous entendons des notes avant son départ. Il a conçu un jeu avec des ressources fournis pour l’image de la marque. Le jeu permet aux visiteurs de comprendre comment l’hacheur de courant produisait ce son en retrouvant les bons Hertz pour former la mélodie.
 
-IMAGES
+<img src="./medias/Musee_ingeniosite_MR-73_ensemble_SF.jpeg" alt="Vue d'ensemble du dispositif du bogie de métro" width="300"> <img src="./medias/Musee_ingeniosite_MR-73_jeu_SF.jpeg" alt="Vue d'ensemble du dispositif du bogie de métro" width="300"> <img src="./medias/Musee_ingeniosite_MR-73_texte_SF.jpeg" alt="Texte explicatif du dispositif" width="300">
 
->	Photographie de l’ensemble du dispositif, d’une vue plus rapproché de la console de jeu et du texte explicatif
+>	Photographie de l’ensemble du dispositif, d’une vue plus rapproché de la console de jeu et du texte explicatif prisent par Sylvie François
 
 Finalement, j’ai apprécié la conférence de Martin Boucher à cause de la passion qu’il avait dans ses propos. Le temps est passé vite et nous avions à peine eu le temps de se dégourdir de notre gêne. J’ai aimé voir concrètement le métier de technicien et de ses aptitudes à s’adapter au situation, au budget et au matériel, ce qui a été le cas pour le projet du bogie de métro. 
 
 
-
-
 ## Références <br>
-https://proposmontreal.com/index.php/des-murales-disparues-du-metro/ <br>
-https://museebombardier.com
-
 Toutes les photographies ont été prise par Sylvie Françoise.
