@@ -1,4 +1,4 @@
-* Conférence avec Martin Boucher - un passionné dans son métier
+# Conférence avec Martin Boucher - un passionné dans son métier
 
 Dans le cadre du cours d’œuvres et dispositifs multimédia, l’intervenant Martin Boucher, technicien au Musée de l'ingéniosité J. Armand Bombardier, est venu parlé de son métier et de ses tâches. Il se spécialise en ultra acoustique et motion design. Il a également travaillé au Musée des Beaux-Arts. La conférence s’est concentrée principalement sur deux dispositifs : le spectacle de bombardier et le bogie de métro MR-73.
 
@@ -8,7 +8,7 @@ Par après, l’intervenant nous a parlé de ce qui m’a inspiré le plus : son
 
 <img src="./medias/Musee_ingeniosite_MR-73_ensemble_SF.jpeg" alt="Vue d'ensemble du dispositif du bogie de métro" width="300"> <img src="./medias/Musee_ingeniosite_MR-73_jeu_SF.jpeg" alt="Vue d'ensemble du dispositif du bogie de métro" width="300"> <img src="./medias/Musee_ingeniosite_MR-73_texte_SF.jpeg" alt="Texte explicatif du dispositif" width="300">
 
->	Photographie de l’ensemble du dispositif, d’une vue plus rapproché de la console de jeu et du texte explicatif prisent par Sylvie François
+>	Photographies de l’ensemble du dispositif, d’une vue plus rapproché de la console de jeu et du texte explicatif prisent par Sylvie François
 
 Finalement, j’ai apprécié la conférence de Martin Boucher à cause de la passion qu’il avait dans ses propos. Le temps est passé vite et nous avions à peine eu le temps de se dégourdir de notre gêne. J’ai aimé voir concrètement le métier de technicien et de ses aptitudes à s’adapter au situation, au budget et au matériel, ce qui a été le cas pour le projet du bogie de métro. 
 
