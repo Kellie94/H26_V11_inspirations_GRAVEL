@@ -36,21 +36,21 @@ L'exposition se situe au deuxième étage de l'édifice. Le dispositif est situ�
 - **Nom de la compagnie:** Moment Factory
 - **Courte présentation de la compagnie et de son dispositif:** Le défi de la compagnie était de réussir à réinventer un classique *Science 26* qui est devenu *Explore*. Elle devait une vulgarisation des grandes thématiques de la science "de façon amusante et étonnante, mais surtout follement intuitive". (https://www.tknl.com) TKLN Expériences créer partout dans le monde et même en ligne. Pour ce projet, elle se s'est associé avec ACME DECORS qui "conçoit et réalise des décors pour l’industrie du spectacle et du divertissement, des installations pour les musées et des espaces commerciaux. Ses ateliers sont situés dans le Grand Montréal." (https://acmedecors.com)
 
-<img src="./croquis/KG_croquis.png" alt="Croquis vue de face du Kaléidoscope Géant" width="400">
+<img src="./medias/KG_installation.png" alt="Photographie de l'installation du Kaléidoscope Géant" width="400">
 
-> Photgraphie de l'installation du Kaléidoscope Géant fournit par le site du Musée des Sciences de Montréal
+> Photographie de l'installation du Kaléidoscope Géant fournit par le site du Musée des Sciences de Montréal
 
 <br>
 
-<img src="./croquis/KG_croquis.png" alt="Croquis vue de face du Kaléidoscope Géant" width="400">
+<img src="./croquis/KG_croquis.png" alt="Croquis vue de face du Kaléidoscope Géant" width="400"> <img src="./medias/KG_pastille_01.png" alt="Photographie d'une des pastilles au sol" width="300"> <img src="./medias/KG_pastille_02.png" alt="Photographie d'une des pastilles au sol" width="300"> <img src="./medias/KG_texte_explicatif.png" alt="Photographie du texte explicatif" width="300">
 
-> Croquis de la mise en espace du dipositif *Kaléidoscope Géant* vue de face
+> Croquis de la mise en espace du dipositif *Kaléidoscope Géant* vue de face ainsi que de ses pastilles et de son texte explicatif
 
 - **Mise en espace:** La mise en espace du dispositif consiste en un structure hexogonal métallique de couleur jaune avec des miroirs, des bandes de lumières LED et deux écrans. Le visiteur peut accéder à l'exposition par le passage de ce kaléidoscopte Géant et en ressortir. Il introduit à la partie de l'exposition sur la lumière.
 
-<img src="./medias/KG_miroirs.png" alt="Photographie des miroirs" width="300"> <img src="./medias/KG_.png" alt="Photographie du fil de lumières LED le long de la palissade" width="300"> <img src="./medias/pac_collecteur_memoires_projecteur_02.jpg" alt="Photographie d'un projecteur dans une boîte étanche" width="300">
+<img src="./medias/KG_miroirs_interieurs.jpg" alt="Photographie des miroirs" width="300"> <img src="./medias/KG_lumieres.jpg" alt="Photographie du fil de lumières LED le long de la palissade" width="300"> <img src="./medias/KG_ecrans.jpg" alt="Photographie des deux écrans" width="300">
 
-> Photographies des composantes techniques: 
+> Photographies des composantes techniques: les miroirs, les lumières et les écrans
 
 **Composantes et techniques:**
 - 23 miroirs
@@ -58,7 +58,11 @@ L'exposition se situe au deuxième étage de l'édifice. Le dispositif est situ�
 - 2 écrans
 - Câblages
 - Structure métallique de forme hexogonal
-  
+
+<img src="./medias/KG_plate-forme.jpg" alt="Photographie d'une plate-forme" width="300"> <img src="./medias/KG_support_texte.jpg" alt="Photographie du support du texte explicatif" width="300">
+
+> Photographie de la passerelle et du support du texte explicatif
+
 **Éléments nécessaires à la mise en exposition:** 
 - Passerelle
 - support métallique pour le texte explicatif
@@ -91,3 +95,5 @@ https://www.centredessciencesdemontreal.com/exposition-permanente/explore
 https://www.centredessciencesdemontreal.com/sites/default/files/inline-files/Matinees%20apaisees-guide%20accompagnement-fr.pdf
 https://www.centredessciencesdemontreal.com/blogue/explore-reinventer-un-classique
 https://acmedecors.com/portfolio_page/explore
+
+Toutes les photographies sont prises par moi, excepté ce qui est indiqué contraire.
