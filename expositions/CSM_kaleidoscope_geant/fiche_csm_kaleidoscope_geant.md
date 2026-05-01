@@ -42,9 +42,9 @@ L'exposition se situe au deuxième étage de l'édifice. Le dispositif est situ�
 
 <br>
 
-<img src="./croquis/KG_croquis.png" alt="Croquis vue de face du Kaléidoscope Géant" width="400"> <img src="./medias/KG_pastille_01.png" alt="Photographie d'une des pastilles au sol" width="300"> <img src="./medias/KG_pastille_02.png" alt="Photographie d'une des pastilles au sol" width="300"> <img src="./medias/KG_texte_explicatif.png" alt="Photographie du texte explicatif" width="300">
+<img src="./croquis/KG_croquis.png" alt="Croquis vue de face du Kaléidoscope Géant" width="400">
 
-> Croquis de la mise en espace du dipositif *Kaléidoscope Géant* vue de face ainsi que de ses pastilles et de son texte explicatif
+> Croquis de la mise en espace du dipositif *Kaléidoscope Géant* vue de face
 
 - **Mise en espace:** La mise en espace du dispositif consiste en un structure hexogonal métallique de couleur jaune avec des miroirs, des bandes de lumières LED et deux écrans. Le visiteur peut accéder à l'exposition par le passage de ce kaléidoscopte Géant et en ressortir. Il introduit à la partie de l'exposition sur la lumière.
 
@@ -66,6 +66,10 @@ L'exposition se situe au deuxième étage de l'édifice. Le dispositif est situ�
 **Éléments nécessaires à la mise en exposition:** 
 - Passerelle
 - support métallique pour le texte explicatif
+
+<img src="./medias/KG_pastille_01.png" alt="Photographie d'une des pastilles au sol" width="300"> <img src="./medias/KG_pastille_02.png" alt="Photographie d'une des pastilles au sol" width="300"> <img src="./medias/KG_texte_explicatif.png" alt="Photographie du texte explicatif" width="300">
+
+> Photopgrahies des pastilles et du texte explicatif du dispositif
 
 <br>
 
