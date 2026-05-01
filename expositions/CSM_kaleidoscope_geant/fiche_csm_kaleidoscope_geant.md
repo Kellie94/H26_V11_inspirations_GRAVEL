@@ -46,7 +46,7 @@ L'exposition se situe au deuxième étage de l'édifice. Le dispositif est situ�
 
 > Croquis de la mise en espace du dipositif *Kaléidoscope Géant* vue de face
 
-- **Mise en espace:** La mise en espace du dispositif consiste en un structure hexogonal métallique de couleur jaune avec des miroirs, des bandes de lumières LED et deux écrans. Le visiteur peut accéder à l'exposition par le passage de ce kaléidoscopte Géant et en ressortir. Il introduit à la partie de l'exposition sur la lumière.
+- **Mise en espace:** La mise en espace du dispositif consiste en un structure hexagonal métallique de couleur jaune avec des miroirs, des bandes de lumières LED et deux écrans. Le visiteur peut accéder à l'exposition par le passage de ce kaléidoscope géant et en ressortir. Il introduit à la partie de l'exposition sur la lumière.
 
 <img src="./medias/KG_miroirs_interieurs.jpg" alt="Photographie des miroirs" width="300"> <img src="./medias/KG_lumieres.jpg" alt="Photographie du fil de lumières LED le long de la palissade" width="300"> <img src="./medias/KG_ecrans.jpg" alt="Photographie des deux écrans" width="300">
 
@@ -57,7 +57,7 @@ L'exposition se situe au deuxième étage de l'édifice. Le dispositif est situ�
 - 12 Bandes de lumières LED
 - 2 écrans
 - Câblages
-- Structure métallique de forme hexogonal
+- Structure métallique de forme hexagonal
 
 <img src="./medias/KG_plate-forme.jpg" alt="Photographie d'une plate-forme" width="300"> <img src="./medias/KG_support_texte.jpg" alt="Photographie du support du texte explicatif" width="300">
 
@@ -65,11 +65,11 @@ L'exposition se situe au deuxième étage de l'édifice. Le dispositif est situ�
 
 **Éléments nécessaires à la mise en exposition:** 
 - Passerelle
-- support métallique pour le texte explicatif
+- Support métallique pour le texte explicatif
 
 <img src="./medias/KG_pastille_01.png" alt="Photographie d'une des pastilles au sol" width="300"> <img src="./medias/KG_pastille_02.png" alt="Photographie d'une des pastilles au sol" width="300"> <img src="./medias/KG_texte_explicatif.png" alt="Photographie du texte explicatif" width="300">
 
-> Photopgrahies des pastilles et du texte explicatif du dispositif
+> Photographies des pastilles et du texte explicatif du dispositif
 
 <br>
 
@@ -81,15 +81,16 @@ L'exposition se situe au deuxième étage de l'édifice. Le dispositif est situ�
 
 <br>
 
-Cette exposition m'a inspiré une nostalgie et un nouveau souvenir. Je suis allée plus jeune et j'en avais eu de merveilleux souvenirs. J'ai aimé revisité des dispositifs qui m'avaient marqué et essayer les nouveaux. C'est d'ailleurs un des nouveaux que j'ai choisi comme dispositif à documenter. Le kaléoscope géant est un ajout aux miroirs déformants. Ils expliquent pourquoi notre reflet change dépendamment de la forme du miroir.
+Cette exposition m'a inspiré une nostalgie et un nouveau souvenir. Je suis allée plus jeune et j'en avais eu de merveilleux souvenirs. J'ai aimé revisité des dispositifs qui m'avaient marqué et essayé les nouveaux. C'est d'ailleurs un des nouveaux que j'ai choisi comme dispositif à documenter. Le kaléidoscope géant est un ajout aux miroirs déformants. Ils expliquent pourquoi notre reflet change dépendamment de la forme du miroir.
 
-Je me suis sentie comme une enfant à nouveau quand je suis entrée à l'exposition par ce dispositif coloré et lumineux. Il reflétait mon image en haut, en bas et sur les côtés. J'avais 8 ans à nouveau, émerveillée et curieuse de tout expérimenter. Après avoir traversé le kaléoscope, je suis allée voir mon reflet déformé dans les différents miroirs. Mes amis riaient au élat et je pouvais sentir le sourire sur mes lèvres persisté toute la durée de la sortie. Je trouve que c'était une expérience efficace pour ouvrir l'esprit à vouloir apprendre et explorer. Le titre de l'exposition portait bien son nom.
+Je me suis sentie comme une enfant à nouveau quand je suis entrée à l'exposition par ce dispositif coloré et lumineux. Il reflétait mon image en haut, en bas et sur les côtés. J'avais 8 ans à nouveau, émerveillée et curieuse de tout expérimenter. Après avoir traversé le kaléidoscope, je suis allée voir mon reflet déformé dans les différents miroirs. Mes amis riaient au éclat et je pouvais sentir le sourire persisté sur mes lèvres toute la durée de la sortie. Je trouve que c'était une expérience efficace pour ouvrir l'esprit à vouloir apprendre et explorer. Le titre de l’exposition portait bien son nom.
+
 
 <br>
 
-- **Ce qui vous a plu, vous a donné des idées :** Ce qui m'a le plus plus est l'aspect géant. Je connaissais les kaléoscoptes, mais pouvoir se trouver à l'intérieur rendait l'expérience originale et marquante. Si j'ai à retenir une idée à propos du dispositif multimédia se serait de ne pas hésiter à aller chercher l'émerveillement autant chez les petits que les grands. Je m'inspirerais des jeux typiquement enfants pour les rendre adapté aux adultes. Une autre idée serait aussi de mélanger des phénomènes scientifiques pour agrémenter mes créations.
+- **Ce qui vous a plu, vous a donné des idées :** Ce qui m'a le plus est l'aspect géant. Je connaissais les kaléidoscopes, mais pouvoir se trouver à l'intérieur rendait l'expérience originale et marquante. Si j'ai à retenir une idée à propos du dispositif multimédia se serait de ne pas hésiter à aller chercher l'émerveillement autant chez les petits que les grands. Je m'inspirerais des jeux typiquement enfants pour les rendre adapté aux adultes. Une autre idée serait aussi de mélanger des phénomènes scientifiques pour agrémenter mes créations.
  
-- **Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement :** Je pense que si j'avais à faire ce dispositif, je ferais en sorte de mettre un petit texte d'explication à côté de chacun des miroirs déformants pour comprendre en quoi celui-ci est différent d'un autre. Pour le kaléoscope, spécifiquement, il aurait été intéressant d'avoir une vidéo explicative pourquoi mon image rebondissait partout. Pour mes créations, je retiens qu'il faut faire attention à la transmission de l'information. Il faut prendre le temps de répondre aux questions qui pourraient naître de l'expérience vécu.
+- **Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement :** Je pense que si j'avais à faire ce dispositif, je ferais en sorte de mettre un petit texte d'explication à côté de chacun des miroirs déformants pour comprendre en quoi celui-ci est différent d'un autre. Pour le kaléidoscope, spécifiquement, il aurait été intéressant d'avoir une vidéo explicative pourquoi mon image rebondissait partout. Pour mes créations, je retiens qu'il faut faire attention à la transmission de l'information. Il faut prendre le temps de répondre aux questions qui pourraient naître de l'expérience vécu.
 
 <br>
 
